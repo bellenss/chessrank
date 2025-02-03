@@ -1,0 +1,33 @@
+# keep node_modules folder out of git
+node_modules/
+
+# build artifacts
+static/builds/
+
+# npm & yarn
+package-lock.json
+yarn.lock
+
+# logs and temp files
+*.log
+*.out
+*.err
+logs/
+tmp/
+
+# python specifics
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+*.swo
+
+# Django specific
+db.sqlite3
+/media/
+/staticfiles/
+local_settings.py
+.env

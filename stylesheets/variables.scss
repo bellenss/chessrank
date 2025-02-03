@@ -1,0 +1,41 @@
+/* VARIABLES */
+// First override some or all individual color variables
+//$primary: #388e3c;
+$primary: #348338;
+$secondary: #278096;
+$success: #388e3c;
+$info: #dbd56e;
+$warning: #de8f6e;
+$danger: #ed1c24;
+$light: #f7fff7;
+$dark: #1a1423;
+$facebook: #3b5998;
+$twitter: #55acee;
+$linkedin: #007bb5;
+$gmail: #dd5347;
+$whatsapp: #12af0a;
+
+// Then add them to your custom theme-colors map, together with any additional colors you might need
+$theme-colors: (
+  primary: $primary,
+  secondary: $secondary,
+  success: $success,
+  info: $info,
+  warning: $warning,
+  danger: $danger,
+  light: $light,
+  dark: $dark,
+  facebook: $facebook,
+  twitter: $twitter,
+  linkedin: $linkedin,
+  gmail: $gmail,
+  whatsapp: $whatsapp
+);
+
+// Responsive font sizes
+$enable-responsive-font-sizes: true;
+$enable-gradients: false;
+$enable-shadows: false;
+
+// navbar colors
+$navbar-dark-color: $light;
