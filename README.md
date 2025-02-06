@@ -34,6 +34,7 @@ This project aims at creating a common chess results interface for use with vari
   ```
   curl -X POST http://127.0.0.1:8000/api/tournament/create/ -H "Content-Type: application/json" --data "@UtopiaBlitz_report.json"
   ```
+- view the resulta at [localhost:8000/tournaments](http://localhost:8000/tournaments)
 
 ## Contributors wanted
 You are encouraged to inspect, modify the code and create pull requests
