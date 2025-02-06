@@ -8,6 +8,7 @@ This project aims at creating a common chess results interface for use with vari
 - clone this github repository
 - make sure you have [Yarn](https://classic.yarnpkg.com/en/) and [Docker](https://www.docker.com/) installed
 - in the repository folder, create a file '.env' with default postgresql credentials:
+  
   `DB_NAME=postgres
   DB_USER=postgres
   DB_PASSWORD=postgres
@@ -23,9 +24,11 @@ This project aims at creating a common chess results interface for use with vari
 
   `yarn docker:start`
 - open up a shell in the chessrank container and apply database migrations
+  
   `python manage.py migrate`
-- visit your application at localhost:8000
+- visit your application at [localhost:8000](localhost:8000)
 - test with a tournament upload file
+  
   `curl -X POST http://127.0.0.1:8000/api/tournament/create/ -H "Content-Type: application/json" --data "@UtopiaBlitz_report.json"``
 
 ## Contributors wanted
