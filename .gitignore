@@ -1,6 +1,9 @@
 # keep node_modules folder out of git
 node_modules/
 
+# keep postgres DB out of git
+postgres_data/
+
 # build artifacts
 static/builds/
 
