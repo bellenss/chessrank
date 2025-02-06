@@ -1,0 +1,3823 @@
+{
+  "tournament": {
+    "id": "1112955",
+    "name": "UtopiaBlitz",
+    "fide_id": "387264",
+    "pairing": "Swiss",
+    "organiser": "Van Wijnendaele, Jovanni, FIDE-ID: 235970",
+    "federation": "BEL",
+    "location": "Aalst",
+    "club": "417, KSK Pion Aalst",
+    "chief arbiter": "Bernard Malfliet, FIDE-ID: 218758",
+    "deputy arbiters": "",
+    "rounds": "11",
+    "start_date": "22.09.2024",
+    "end_date": "22.09.2024",
+    "tempo": "Blitz",
+    "timecontrol": "3 min + 2 sec inc",
+    "tie_breaks": ["Buchholz", "Median Buchholz", "Sonneborn Berger", "Progressief"],
+    "webpage": "www.skdworp.be",
+    "e-mail": "kspionaalst@gmail.com",
+    "software": "Pairtwo Classic 1.26.00"
+  },
+  "players": [
+    {
+      "name": "Alienkin, Aleksander",
+      "id": "10252",
+      "fide_id": "4156765",
+      "federation": "BEL",
+      "title": "IM",
+      "rating": {
+        "fide": "2293",
+        "national": "2332"
+      },
+      "club": "621, La Tour d'Ans-Loncin",
+      "birth_year": "1963",
+      "sex": "M",
+      "points": "10.0",
+      "games": "11",
+      "rank": "4",
+      "performance": "2414",
+      "ELO gain": "76",
+      "tie breaks": ["72.5", "59.5", "64.25", "62.5"]
+    },
+    {
+      "name": "Dgebuadze, Alexandre",
+      "id": "49301",
+      "fide_id": "203882",
+      "federation": "BEL",
+      "title": "GM",
+      "rating": {
+        "fide": "2435",
+        "national": "2444"
+      },
+      "club": "471, SC de Pluspion Wachtebeke",
+      "birth_year": "1971",
+      "sex": "M",
+      "points": "9.0",
+      "games": "11",
+      "rank": "1",
+      "performance": "2361",
+      "ELO gain": "-11",
+      "tie breaks": ["78.5", "63.5", "62.75", "54.5"]
+    },
+    {
+      "name": "Vandenhole, Kobe",
+      "id": "20531",
+      "fide_id": "268844",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "2087",
+        "national": "2132"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "2009",
+      "sex": "M",
+      "points": "8.5",
+      "games": "11",
+      "rank": "8",
+      "performance": "2306",
+      "ELO gain": "122",
+      "tie breaks": ["77.5", "62.5", "54.5", "49.5"]
+    },
+    {
+      "name": "Dauw, Sterre",
+      "id": "15269",
+      "fide_id": "248886",
+      "federation": "BEL",
+      "title": "FM",
+      "rating": {
+        "fide": "2310",
+        "national": "2255"
+      },
+      "club": "114, KSK Mechelen",
+      "birth_year": "2002",
+      "sex": "M",
+      "points": "8.0",
+      "games": "11",
+      "rank": "3",
+      "performance": "2284",
+      "ELO gain": "4",
+      "tie breaks": ["82.0", "66.5", "55.0", "51.0"]
+    },
+    {
+      "name": "Roos, Adrian",
+      "id": "11118",
+      "fide_id": "263621",
+      "federation": "BEL",
+      "title": "FM",
+      "rating": {
+        "fide": "2223",
+        "national": "2236"
+      },
+      "club": "462, Caballos Zottegem",
+      "birth_year": "1990",
+      "sex": "M",
+      "points": "7.5",
+      "games": "11",
+      "rank": "5",
+      "performance": "2125",
+      "ELO gain": "-27",
+      "tie breaks": ["76.0", "62.0", "48.0", "47.0"]
+    },
+    {
+      "name": "Pauwels, Xander",
+      "id": "11927",
+      "fide_id": "235709",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "2145",
+        "national": "2065"
+      },
+      "club": "364, (Geen club)",
+      "birth_year": "2000",
+      "sex": "M",
+      "points": "7.5",
+      "games": "11",
+      "rank": "7",
+      "performance": "2171",
+      "ELO gain": "32",
+      "tie breaks": ["76.0", "61.5", "49.5", "47.5"]
+    },
+    {
+      "name": "Dreelinck, Jacob",
+      "id": "14086",
+      "fide_id": "250511",
+      "federation": "BEL",
+      "title": "FM",
+      "rating": {
+        "fide": "2334",
+        "national": "2223"
+      },
+      "club": "418, Van Pion tot Dame G'bergen",
+      "birth_year": "2007",
+      "sex": "M",
+      "points": "7.0",
+      "games": "11",
+      "rank": "2",
+      "performance": "2169",
+      "ELO gain": "-62",
+      "tie breaks": ["78.5", "63.5", "44.5", "47.0"]
+    },
+    {
+      "name": "Tanishq Gupta",
+      "id": "0",
+      "fide_id": "25662562",
+      "federation": "IND",
+      "title": "-",
+      "rating": {
+        "fide": "1813",
+        "national": "0"
+      },
+      "club": "0, (Geen club)",
+      "birth_year": "2005",
+      "sex": "M",
+      "points": "7.0",
+      "games": "11",
+      "rank": "25",
+      "performance": "2118",
+      "ELO gain": "160",
+      "tie breaks": ["72.0", "59.0", "40.0", "46.0"]
+    },
+    {
+      "name": "Zouaghi, Amir",
+      "id": "14606",
+      "fide_id": "249262",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "2075",
+        "national": "2148"
+      },
+      "club": "401, KGS Ruy Lopez Gent",
+      "birth_year": "2007",
+      "sex": "M",
+      "points": "7.0",
+      "games": "11",
+      "rank": "10",
+      "performance": "2045",
+      "ELO gain": "-4",
+      "tie breaks": ["70.0", "58.0", "41.5", "46.0"]
+    },
+    {
+      "name": "Maes, Tibo",
+      "id": "42391",
+      "fide_id": "231274",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1930",
+        "national": "2021"
+      },
+      "club": "432, De Wetterse Vrijpion",
+      "birth_year": "1998",
+      "sex": "M",
+      "points": "7.0",
+      "games": "11",
+      "rank": "16",
+      "performance": "2056",
+      "ELO gain": "63",
+      "tie breaks": ["68.0", "56.5", "36.5", "42.0"]
+    },
+    {
+      "name": "Ramacker, Quinten",
+      "id": "43257",
+      "fide_id": "210404",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "2082",
+        "national": "2048"
+      },
+      "club": "364, (Geen club)",
+      "birth_year": "1998",
+      "sex": "M",
+      "points": "7.0",
+      "games": "11",
+      "rank": "9",
+      "performance": "2009",
+      "ELO gain": "-26",
+      "tie breaks": ["68.0", "55.5", "37.5", "41.0"]
+    },
+    {
+      "name": "Roelandt, Andreas",
+      "id": "11023",
+      "fide_id": "238961",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1961",
+        "national": "2007"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "1998",
+      "sex": "M",
+      "points": "6.5",
+      "games": "11",
+      "rank": "14",
+      "performance": "1976",
+      "ELO gain": "7",
+      "tie breaks": ["68.0", "55.0", "37.0", "38.0"]
+    },
+    {
+      "name": "Van Kessel, Wessel",
+      "id": "10785",
+      "fide_id": "233404",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "2017",
+        "national": "2129"
+      },
+      "club": "708, Noordlimburgse SK",
+      "birth_year": "1994",
+      "sex": "M",
+      "points": "6.5",
+      "games": "11",
+      "rank": "11",
+      "performance": "1987",
+      "ELO gain": "-9",
+      "tie breaks": ["68.0", "55.0", "36.5", "39.5"]
+    },
+    {
+      "name": "Dreelinck, Adriaan",
+      "id": "14078",
+      "fide_id": "250503",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "2159",
+        "national": "2195"
+      },
+      "club": "418, Van Pion tot Dame G'bergen",
+      "birth_year": "2005",
+      "sex": "M",
+      "points": "6.0",
+      "games": "11",
+      "rank": "6",
+      "performance": "2035",
+      "ELO gain": "-59",
+      "tie breaks": ["75.5", "61.0", "36.5", "45.0"]
+    },
+    {
+      "name": "Lot, Diederik",
+      "id": "9954",
+      "fide_id": "231223",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1949",
+        "national": "2001"
+      },
+      "club": "228, Dworpse Schaakkring",
+      "birth_year": "1978",
+      "sex": "M",
+      "points": "6.0",
+      "games": "11",
+      "rank": "15",
+      "performance": "1953",
+      "ELO gain": "1",
+      "tie breaks": ["69.0", "54.0", "32.5", "41.0"]
+    },
+    {
+      "name": "Esmer, Hamza",
+      "id": "0",
+      "fide_id": "4007484",
+      "federation": "LUX",
+      "title": "-",
+      "rating": {
+        "fide": "1623",
+        "national": "0"
+      },
+      "club": "0, (Geen club)",
+      "birth_year": "2015",
+      "sex": "M",
+      "points": "6.0",
+      "games": "11",
+      "rank": "35",
+      "performance": "1952",
+      "ELO gain": "142",
+      "tie breaks": ["67.5", "56.5", "32.5", "39.0"]
+    },
+    {
+      "name": "Boodts, Jeroen",
+      "id": "8834",
+      "fide_id": "225762",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1899",
+        "national": "1974"
+      },
+      "club": "425, 't Ros Dendermonde",
+      "birth_year": "1994",
+      "sex": "M",
+      "points": "6.0",
+      "games": "11",
+      "rank": "18",
+      "performance": "1904",
+      "ELO gain": "0",
+      "tie breaks": ["65.5", "53.0", "31.0", "38.0"]
+    },
+    {
+      "name": "Vanduyfhuys, Igor",
+      "id": "14603",
+      "fide_id": "246212",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1974",
+        "national": "2049"
+      },
+      "club": "401, KGS Ruy Lopez Gent",
+      "birth_year": "2006",
+      "sex": "M",
+      "points": "6.0",
+      "games": "11",
+      "rank": "13",
+      "performance": "1859",
+      "ELO gain": "-60",
+      "tie breaks": ["64.5", "52.0", "30.5", "36.0"]
+    },
+    {
+      "name": "Heymans, Berwout",
+      "id": "17261",
+      "fide_id": "257036",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1889",
+        "national": "1953"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "2003",
+      "sex": "M",
+      "points": "6.0",
+      "games": "11",
+      "rank": "19",
+      "performance": "1888",
+      "ELO gain": "3",
+      "tie breaks": ["64.5", "52.0", "30.0", "37.0"]
+    },
+    {
+      "name": "Londers, Tuur",
+      "id": "19773",
+      "fide_id": "264393",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1620",
+        "national": "1665"
+      },
+      "club": "436, LSV - Chesspirant",
+      "birth_year": "2010",
+      "sex": "M",
+      "points": "6.0",
+      "games": "11",
+      "rank": "36",
+      "performance": "1862",
+      "ELO gain": "98",
+      "tie breaks": ["62.5", "52.5", "29.5", "36.0"]
+    },
+    {
+      "name": "De Geest, Hannes",
+      "id": "16865",
+      "fide_id": "261459",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1992",
+        "national": "1999"
+      },
+      "club": "401, KGS Ruy Lopez Gent",
+      "birth_year": "1996",
+      "sex": "M",
+      "points": "6.0",
+      "games": "11",
+      "rank": "12",
+      "performance": "1820",
+      "ELO gain": "-88",
+      "tie breaks": ["61.5", "50.0", "32.0", "37.0"]
+    },
+    {
+      "name": "Veldeman, Sieben",
+      "id": "21436",
+      "fide_id": "268461",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1848",
+        "national": "1930"
+      },
+      "club": "425, 't Ros Dendermonde",
+      "birth_year": "2000",
+      "sex": "M",
+      "points": "6.0",
+      "games": "11",
+      "rank": "20",
+      "performance": "1740",
+      "ELO gain": "-55",
+      "tie breaks": ["58.0", "48.5", "27.0", "32.0"]
+    },
+    {
+      "name": "Esmer, Kemal Eymen",
+      "id": "0",
+      "fide_id": "4007204",
+      "federation": "LUX",
+      "title": "-",
+      "rating": {
+        "fide": "1746",
+        "national": "0"
+      },
+      "club": "0, (Geen club)",
+      "birth_year": "2009",
+      "sex": "M",
+      "points": "6.0",
+      "games": "11",
+      "rank": "27",
+      "performance": "1878",
+      "ELO gain": "55",
+      "tie breaks": ["57.5", "47.5", "28.0", "32.0"]
+    },
+    {
+      "name": "Van De Putte, Ben",
+      "id": "2127",
+      "fide_id": "206679",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1816",
+        "national": "1785"
+      },
+      "club": "438, SK Karpov Deinze",
+      "birth_year": "1974",
+      "sex": "M",
+      "points": "5.5",
+      "games": "10",
+      "rank": "24",
+      "performance": "1867",
+      "ELO gain": "13",
+      "tie breaks": ["63.0", "49.5", "27.75", "33.5"]
+    },
+    {
+      "name": "Verbeke, Basiel",
+      "id": "23905",
+      "fide_id": "281883",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1600",
+        "national": "1671"
+      },
+      "club": "401, KGS Ruy Lopez Gent",
+      "birth_year": "2015",
+      "sex": "M",
+      "points": "5.5",
+      "games": "10",
+      "rank": "39",
+      "performance": "1776",
+      "ELO gain": "80",
+      "tie breaks": ["61.5", "50.0", "28.25", "31.0"]
+    },
+    {
+      "name": "Clabost, Sam",
+      "id": "25645",
+      "fide_id": "282570",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "0",
+        "national": "1823"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "1991",
+      "sex": "M",
+      "points": "5.5",
+      "games": "11",
+      "rank": "22",
+      "performance": "1856",
+      "ELO gain": "20",
+      "tie breaks": ["60.5", "51.0", "26.0", "37.0"]
+    },
+    {
+      "name": "De Meyere, Dirk",
+      "id": "58947",
+      "fide_id": "214523",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1619",
+        "national": "1754"
+      },
+      "club": "303, KBSK Brugge",
+      "birth_year": "1964",
+      "sex": "M",
+      "points": "5.5",
+      "games": "11",
+      "rank": "37",
+      "performance": "1722",
+      "ELO gain": "35",
+      "tie breaks": ["52.5", "43.0", "23.5", "28.0"]
+    },
+    {
+      "name": "De Meyer, Nicolas",
+      "id": "23127",
+      "fide_id": "271446",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1739",
+        "national": "1792"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "1998",
+      "sex": "M",
+      "points": "5.5",
+      "games": "11",
+      "rank": "28",
+      "performance": "1677",
+      "ELO gain": "-12",
+      "tie breaks": ["51.0", "40.5", "23.25", "25.0"]
+    },
+    {
+      "name": "Debunne, Lasse",
+      "id": "14392",
+      "fide_id": "247529",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1840",
+        "national": "1745"
+      },
+      "club": "436, LSV - Chesspirant",
+      "birth_year": "2006",
+      "sex": "M",
+      "points": "5.0",
+      "games": "11",
+      "rank": "21",
+      "performance": "1760",
+      "ELO gain": "-50",
+      "tie breaks": ["61.5", "50.5", "24.75", "34.5"]
+    },
+    {
+      "name": "Ganguly, Aayush",
+      "id": "22884",
+      "fide_id": "268836",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1768",
+        "national": "1760"
+      },
+      "club": "401, KGS Ruy Lopez Gent",
+      "birth_year": "2011",
+      "sex": "M",
+      "points": "5.0",
+      "games": "11",
+      "rank": "26",
+      "performance": "1785",
+      "ELO gain": "-8",
+      "tie breaks": ["61.5", "50.5", "22.25", "31.0"]
+    },
+    {
+      "name": "Degraeve, Ruben",
+      "id": "13987",
+      "fide_id": "243159",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1735",
+        "national": "1729"
+      },
+      "club": "228, Dworpse Schaakkring",
+      "birth_year": "1988",
+      "sex": "M",
+      "points": "5.0",
+      "games": "11",
+      "rank": "29",
+      "performance": "1694",
+      "ELO gain": "-38",
+      "tie breaks": ["60.0", "46.5", "21.75", "27.0"]
+    },
+    {
+      "name": "Van Roy, Arno",
+      "id": "50152",
+      "fide_id": "231908",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1686",
+        "national": "1717"
+      },
+      "club": "260, SK Het Wit Paard",
+      "birth_year": "1998",
+      "sex": "M",
+      "points": "5.0",
+      "games": "11",
+      "rank": "33",
+      "performance": "1669",
+      "ELO gain": "-22",
+      "tie breaks": ["57.0", "45.0", "20.5", "27.0"]
+    },
+    {
+      "name": "Koops, Niels",
+      "id": "12212",
+      "fide_id": "288080",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1734",
+        "national": "1756"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "2002",
+      "sex": "M",
+      "points": "5.0",
+      "games": "11",
+      "rank": "30",
+      "performance": "1713",
+      "ELO gain": "-28",
+      "tie breaks": ["55.0", "45.0", "19.5", "27.0"]
+    },
+    {
+      "name": "Blykers, Jan",
+      "id": "23120",
+      "fide_id": "281654",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1584",
+        "national": "1535"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "1990",
+      "sex": "M",
+      "points": "5.0",
+      "games": "11",
+      "rank": "40",
+      "performance": "1641",
+      "ELO gain": "5",
+      "tie breaks": ["52.5", "43.5", "20.0", "26.0"]
+    },
+    {
+      "name": "Gill, Matthew",
+      "id": "24986",
+      "fide_id": "279609",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1654",
+        "national": "1643"
+      },
+      "club": "114, KSK Mechelen",
+      "birth_year": "2004",
+      "sex": "M",
+      "points": "5.0",
+      "games": "10",
+      "rank": "34",
+      "performance": "1630",
+      "ELO gain": "-30",
+      "tie breaks": ["51.0", "42.0", "16.5", "23.0"]
+    },
+    {
+      "name": "Moallem, Ali",
+      "id": "29374",
+      "fide_id": "0",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "0",
+        "national": "0"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "1997",
+      "sex": "M",
+      "points": "5.0",
+      "games": "10",
+      "rank": "47",
+      "performance": "1552",
+      "ELO gain": "82",
+      "tie breaks": ["47.0", "39.0", "17.5", "24.0"]
+    },
+    {
+      "name": "Colin, Peter",
+      "id": "23841",
+      "fide_id": "213667",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1921",
+        "national": "1950"
+      },
+      "club": "462, Caballos Zottegem",
+      "birth_year": "1985",
+      "sex": "M",
+      "points": "4.5",
+      "games": "11",
+      "rank": "17",
+      "performance": "1790",
+      "ELO gain": "-78",
+      "tie breaks": ["65.5", "52.0", "22.25", "33.0"]
+    },
+    {
+      "name": "Decaestecker, Maarten",
+      "id": "21456",
+      "fide_id": "265594",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1734",
+        "national": "1792"
+      },
+      "club": "401, KGS Ruy Lopez Gent",
+      "birth_year": "1998",
+      "sex": "M",
+      "points": "4.5",
+      "games": "11",
+      "rank": "31",
+      "performance": "1677",
+      "ELO gain": "-46",
+      "tie breaks": ["58.0", "47.5", "19.25", "29.0"]
+    },
+    {
+      "name": "De Lombaerde, Yves",
+      "id": "82058",
+      "fide_id": "214469",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1694",
+        "national": "1738"
+      },
+      "club": "952, CE de Wavre",
+      "birth_year": "1960",
+      "sex": "M",
+      "points": "4.5",
+      "games": "11",
+      "rank": "32",
+      "performance": "1687",
+      "ELO gain": "-15",
+      "tie breaks": ["55.0", "45.5", "18.25", "27.0"]
+    },
+    {
+      "name": "Ruysseveldt, Sam",
+      "id": "14741",
+      "fide_id": "0",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "0",
+        "national": "1531"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "1992",
+      "sex": "M",
+      "points": "4.5",
+      "games": "10",
+      "rank": "43",
+      "performance": "1463",
+      "ELO gain": "-1",
+      "tie breaks": ["44.5", "36.5", "14.25", "19.0"]
+    },
+    {
+      "name": "Londers, Jan",
+      "id": "41904",
+      "fide_id": "227471",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1818",
+        "national": "1901"
+      },
+      "club": "425, 't Ros Dendermonde",
+      "birth_year": "1981",
+      "sex": "M",
+      "points": "4.0",
+      "games": "11",
+      "rank": "23",
+      "performance": "1787",
+      "ELO gain": "-28",
+      "tie breaks": ["69.0", "55.5", "21.5", "34.0"]
+    },
+    {
+      "name": "Evens, Joris",
+      "id": "38156",
+      "fide_id": "273945",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1616",
+        "national": "1641"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "1965",
+      "sex": "M",
+      "points": "4.0",
+      "games": "11",
+      "rank": "38",
+      "performance": "1538",
+      "ELO gain": "-68",
+      "tie breaks": ["51.0", "42.5", "14.0", "23.0"]
+    },
+    {
+      "name": "Van Der Eecken, Wout",
+      "id": "29250",
+      "fide_id": "0",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "0",
+        "national": "0"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "2012",
+      "sex": "M",
+      "points": "4.0",
+      "games": "10",
+      "rank": "49",
+      "performance": "1476",
+      "ELO gain": "0",
+      "tie breaks": ["47.5", "39.5", "13.0", "20.0"]
+    },
+    {
+      "name": "Francois, Emile",
+      "id": "27536",
+      "fide_id": "288144",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1525",
+        "national": "1516"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "2006",
+      "sex": "M",
+      "points": "4.0",
+      "games": "11",
+      "rank": "44",
+      "performance": "1474",
+      "ELO gain": "-17",
+      "tie breaks": ["46.0", "38.0", "14.75", "19.0"]
+    },
+    {
+      "name": "Youtsaluk, Daryna",
+      "id": "29205",
+      "fide_id": "293830",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "0",
+        "national": "0"
+      },
+      "club": "174, SK Brasschaat",
+      "birth_year": "2009",
+      "sex": "F",
+      "points": "3.5",
+      "games": "10",
+      "rank": "48",
+      "performance": "1403",
+      "ELO gain": "-10",
+      "tie breaks": ["50.0", "40.5", "15.0", "20.0"]
+    },
+    {
+      "name": "Trizulla, Tristen",
+      "id": "20444",
+      "fide_id": "289345",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1557",
+        "national": "0"
+      },
+      "club": "364, (Geen club)",
+      "birth_year": "2008",
+      "sex": "M",
+      "points": "3.5",
+      "games": "10",
+      "rank": "42",
+      "performance": "1428",
+      "ELO gain": "-26",
+      "tie breaks": ["47.0", "39.5", "11.75", "19.0"]
+    },
+    {
+      "name": "Verbeke, Tom",
+      "id": "29417",
+      "fide_id": "0",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "0",
+        "national": "0"
+      },
+      "club": "364, (Geen club)",
+      "birth_year": "1998",
+      "sex": "M",
+      "points": "3.0",
+      "games": "10",
+      "rank": "46",
+      "performance": "1415",
+      "ELO gain": "-1",
+      "tie breaks": ["55.0", "45.0", "12.5", "19.0"]
+    },
+    {
+      "name": "Baetens, Christophe",
+      "id": "24910",
+      "fide_id": "287938",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "0",
+        "national": "1567"
+      },
+      "club": "417, KSK Pion Aalst",
+      "birth_year": "1987",
+      "sex": "M",
+      "points": "2.5",
+      "games": "10",
+      "rank": "41",
+      "performance": "1345",
+      "ELO gain": "-76",
+      "tie breaks": ["50.0", "41.0", "9.25", "16.0"]
+    },
+    {
+      "name": "Iachim, Sergiu",
+      "id": "28268",
+      "fide_id": "289884",
+      "federation": "BEL",
+      "title": "-",
+      "rating": {
+        "fide": "1490",
+        "national": "1414"
+      },
+      "club": "952, CE de Wavre",
+      "birth_year": "1979",
+      "sex": "M",
+      "points": "2.0",
+      "games": "10",
+      "rank": "45",
+      "performance": "1244",
+      "ELO gain": "-61",
+      "tie breaks": ["46.0", "38.0", "4.5", "8.0"]
+    }
+  ],
+  "rounds": [
+    {
+      "round_number": "1",
+      "date": "22.09.2024",
+      "games": [
+        {
+          "board": "1",
+          "white": "Ganguly, Aayush",
+          "black": "Dgebuadze, Alexandre",
+          "white_nr": "26",
+          "black_nr": "1",
+          "white_rating": "1768",
+          "black_rating": "2435",
+          "result": " 0-1 "
+        },
+        {
+          "board": "2",
+          "white": "Dreelinck, Jacob",
+          "black": "Esmer, Kemal Eymen",
+          "white_nr": "2",
+          "black_nr": "27",
+          "white_rating": "2334",
+          "black_rating": "1746",
+          "result": " 1-0 "
+        },
+        {
+          "board": "3",
+          "white": "De Meyer, Nicolas",
+          "black": "Dauw, Sterre",
+          "white_nr": "28",
+          "black_nr": "3",
+          "white_rating": "1739",
+          "black_rating": "2310",
+          "result": " 0-1 "
+        },
+        {
+          "board": "4",
+          "white": "Alienkin, Aleksander",
+          "black": "Degraeve, Ruben",
+          "white_nr": "4",
+          "black_nr": "29",
+          "white_rating": "2293",
+          "black_rating": "1735",
+          "result": " 1-0 "
+        },
+        {
+          "board": "5",
+          "white": "Koops, Niels",
+          "black": "Roos, Adrian",
+          "white_nr": "30",
+          "black_nr": "5",
+          "white_rating": "1734",
+          "black_rating": "2223",
+          "result": " 0-1 "
+        },
+        {
+          "board": "6",
+          "white": "Dreelinck, Adriaan",
+          "black": "Decaestecker, Maarten",
+          "white_nr": "6",
+          "black_nr": "31",
+          "white_rating": "2159",
+          "black_rating": "1734",
+          "result": " 1-0 "
+        },
+        {
+          "board": "7",
+          "white": "De Lombaerde, Yves",
+          "black": "Pauwels, Xander",
+          "white_nr": "32",
+          "black_nr": "7",
+          "white_rating": "1694",
+          "black_rating": "2145",
+          "result": " 0-1 "
+        },
+        {
+          "board": "8",
+          "white": "Vandenhole, Kobe",
+          "black": "Van Roy, Arno",
+          "white_nr": "8",
+          "black_nr": "33",
+          "white_rating": "2087",
+          "black_rating": "1686",
+          "result": " 1-0 "
+        },
+        {
+          "board": "9",
+          "white": "Gill, Matthew",
+          "black": "Ramacker, Quinten",
+          "white_nr": "34",
+          "black_nr": "9",
+          "white_rating": "1654",
+          "black_rating": "2082",
+          "result": " 0-1 "
+        },
+        {
+          "board": "10",
+          "white": "Zouaghi, Amir",
+          "black": "Esmer, Hamza",
+          "white_nr": "10",
+          "black_nr": "35",
+          "white_rating": "2075",
+          "black_rating": "1623",
+          "result": " 1-0 "
+        },
+        {
+          "board": "11",
+          "white": "Londers, Tuur",
+          "black": "Van Kessel, Wessel",
+          "white_nr": "36",
+          "black_nr": "11",
+          "white_rating": "1620",
+          "black_rating": "2017",
+          "result": " 0-1 "
+        },
+        {
+          "board": "12",
+          "white": "De Geest, Hannes",
+          "black": "De Meyere, Dirk",
+          "white_nr": "12",
+          "black_nr": "37",
+          "white_rating": "1992",
+          "black_rating": "1619",
+          "result": " 1-0 "
+        },
+        {
+          "board": "13",
+          "white": "Evens, Joris",
+          "black": "Vanduyfhuys, Igor",
+          "white_nr": "38",
+          "black_nr": "13",
+          "white_rating": "1616",
+          "black_rating": "1974",
+          "result": " 0-1 "
+        },
+        {
+          "board": "14",
+          "white": "Roelandt, Andreas",
+          "black": "Verbeke, Basiel",
+          "white_nr": "14",
+          "black_nr": "39",
+          "white_rating": "1961",
+          "black_rating": "1600",
+          "result": " 1-0 "
+        },
+        {
+          "board": "15",
+          "white": "Blykers, Jan",
+          "black": "Lot, Diederik",
+          "white_nr": "40",
+          "black_nr": "15",
+          "white_rating": "1584",
+          "black_rating": "1949",
+          "result": " 0-1 "
+        },
+        {
+          "board": "16",
+          "white": "Maes, Tibo",
+          "black": "Baetens, Christophe",
+          "white_nr": "16",
+          "black_nr": "41",
+          "white_rating": "1930",
+          "black_rating": "1567",
+          "result": " 1-0 "
+        },
+        {
+          "board": "17",
+          "white": "Trizulla, Tristen",
+          "black": "Colin, Peter",
+          "white_nr": "42",
+          "black_nr": "17",
+          "white_rating": "1557",
+          "black_rating": "1921",
+          "result": " 0-1 "
+        },
+        {
+          "board": "18",
+          "white": "Boodts, Jeroen",
+          "black": "Ruysseveldt, Sam",
+          "white_nr": "18",
+          "black_nr": "43",
+          "white_rating": "1899",
+          "black_rating": "1531",
+          "result": " 1-0 "
+        },
+        {
+          "board": "19",
+          "white": "Francois, Emile",
+          "black": "Heymans, Berwout",
+          "white_nr": "44",
+          "black_nr": "19",
+          "white_rating": "1525",
+          "black_rating": "1889",
+          "result": " 0-1 "
+        },
+        {
+          "board": "20",
+          "white": "Veldeman, Sieben",
+          "black": "Iachim, Sergiu",
+          "white_nr": "20",
+          "black_nr": "45",
+          "white_rating": "1848",
+          "black_rating": "1490",
+          "result": " 1-0 "
+        },
+        {
+          "board": "21",
+          "white": "Van Der Eecken, Wout",
+          "black": "Debunne, Lasse",
+          "white_nr": "49",
+          "black_nr": "21",
+          "white_rating": "0",
+          "black_rating": "1840",
+          "result": " 0-1 "
+        },
+        {
+          "board": "22",
+          "white": "Clabost, Sam",
+          "black": "Moallem, Ali",
+          "white_nr": "22",
+          "black_nr": "47",
+          "white_rating": "1823",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "23",
+          "white": "Youtsaluk, Daryna",
+          "black": "Londers, Jan",
+          "white_nr": "48",
+          "black_nr": "23",
+          "white_rating": "0",
+          "black_rating": "1818",
+          "result": " 0-1 "
+        },
+        {
+          "board": "24",
+          "white": "Tanishq Gupta",
+          "black": "Verbeke, Tom",
+          "white_nr": "25",
+          "black_nr": "46",
+          "white_rating": "1813",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "25",
+          "white": "Van De Putte, Ben",
+          "black": "(bye)",
+          "white_nr": "24",
+          "black_nr": "-1",
+          "white_rating": "1816",
+          "black_rating": "0",
+          "result": " �-� "
+        }
+      ]
+    },
+    {
+      "round_number": "2",
+      "date": "22.09.2024",
+      "games": [
+        {
+          "board": "1",
+          "white": "Dgebuadze, Alexandre",
+          "black": "Roelandt, Andreas",
+          "white_nr": "1",
+          "black_nr": "14",
+          "white_rating": "2435",
+          "black_rating": "1961",
+          "result": " �-� "
+        },
+        {
+          "board": "2",
+          "white": "Vanduyfhuys, Igor",
+          "black": "Dreelinck, Jacob",
+          "white_nr": "13",
+          "black_nr": "2",
+          "white_rating": "1974",
+          "black_rating": "2334",
+          "result": " 0-1 "
+        },
+        {
+          "board": "3",
+          "white": "Dauw, Sterre",
+          "black": "Maes, Tibo",
+          "white_nr": "3",
+          "black_nr": "16",
+          "white_rating": "2310",
+          "black_rating": "1930",
+          "result": " 1-0 "
+        },
+        {
+          "board": "4",
+          "white": "Lot, Diederik",
+          "black": "Alienkin, Aleksander",
+          "white_nr": "15",
+          "black_nr": "4",
+          "white_rating": "1949",
+          "black_rating": "2293",
+          "result": " 0-1 "
+        },
+        {
+          "board": "5",
+          "white": "Roos, Adrian",
+          "black": "Boodts, Jeroen",
+          "white_nr": "5",
+          "black_nr": "18",
+          "white_rating": "2223",
+          "black_rating": "1899",
+          "result": " 1-0 "
+        },
+        {
+          "board": "6",
+          "white": "Colin, Peter",
+          "black": "Dreelinck, Adriaan",
+          "white_nr": "17",
+          "black_nr": "6",
+          "white_rating": "1921",
+          "black_rating": "2159",
+          "result": " 1-0 "
+        },
+        {
+          "board": "7",
+          "white": "Pauwels, Xander",
+          "black": "Veldeman, Sieben",
+          "white_nr": "7",
+          "black_nr": "20",
+          "white_rating": "2145",
+          "black_rating": "1848",
+          "result": " 1-0 "
+        },
+        {
+          "board": "8",
+          "white": "Heymans, Berwout",
+          "black": "Vandenhole, Kobe",
+          "white_nr": "19",
+          "black_nr": "8",
+          "white_rating": "1889",
+          "black_rating": "2087",
+          "result": " 0-1 "
+        },
+        {
+          "board": "9",
+          "white": "Ramacker, Quinten",
+          "black": "Clabost, Sam",
+          "white_nr": "9",
+          "black_nr": "22",
+          "white_rating": "2082",
+          "black_rating": "1823",
+          "result": " 1-0 "
+        },
+        {
+          "board": "10",
+          "white": "Debunne, Lasse",
+          "black": "Zouaghi, Amir",
+          "white_nr": "21",
+          "black_nr": "10",
+          "white_rating": "1840",
+          "black_rating": "2075",
+          "result": " 0-1 "
+        },
+        {
+          "board": "11",
+          "white": "Van Kessel, Wessel",
+          "black": "Tanishq Gupta",
+          "white_nr": "11",
+          "black_nr": "25",
+          "white_rating": "2017",
+          "black_rating": "1813",
+          "result": " 0-1 "
+        },
+        {
+          "board": "12",
+          "white": "Londers, Jan",
+          "black": "De Geest, Hannes",
+          "white_nr": "23",
+          "black_nr": "12",
+          "white_rating": "1818",
+          "black_rating": "1992",
+          "result": " 1-0 "
+        },
+        {
+          "board": "13",
+          "white": "Van De Putte, Ben",
+          "black": "Ganguly, Aayush",
+          "white_nr": "24",
+          "black_nr": "26",
+          "white_rating": "1816",
+          "black_rating": "1768",
+          "result": " 1-0 "
+        },
+        {
+          "board": "14",
+          "white": "Esmer, Kemal Eymen",
+          "black": "Evens, Joris",
+          "white_nr": "27",
+          "black_nr": "38",
+          "white_rating": "1746",
+          "black_rating": "1616",
+          "result": " 1-0 "
+        },
+        {
+          "board": "15",
+          "white": "Verbeke, Basiel",
+          "black": "De Meyer, Nicolas",
+          "white_nr": "39",
+          "black_nr": "28",
+          "white_rating": "1600",
+          "black_rating": "1739",
+          "result": " �-� "
+        },
+        {
+          "board": "16",
+          "white": "Degraeve, Ruben",
+          "black": "Blykers, Jan",
+          "white_nr": "29",
+          "black_nr": "40",
+          "white_rating": "1735",
+          "black_rating": "1584",
+          "result": " 1-0 "
+        },
+        {
+          "board": "17",
+          "white": "Baetens, Christophe",
+          "black": "Koops, Niels",
+          "white_nr": "41",
+          "black_nr": "30",
+          "white_rating": "1567",
+          "black_rating": "1734",
+          "result": " 0-1 "
+        },
+        {
+          "board": "18",
+          "white": "Decaestecker, Maarten",
+          "black": "Trizulla, Tristen",
+          "white_nr": "31",
+          "black_nr": "42",
+          "white_rating": "1734",
+          "black_rating": "1557",
+          "result": " 1-0 "
+        },
+        {
+          "board": "19",
+          "white": "Ruysseveldt, Sam",
+          "black": "De Lombaerde, Yves",
+          "white_nr": "43",
+          "black_nr": "32",
+          "white_rating": "1531",
+          "black_rating": "1694",
+          "result": " �-� "
+        },
+        {
+          "board": "20",
+          "white": "Van Roy, Arno",
+          "black": "Francois, Emile",
+          "white_nr": "33",
+          "black_nr": "44",
+          "white_rating": "1686",
+          "black_rating": "1525",
+          "result": " 1-0 "
+        },
+        {
+          "board": "21",
+          "white": "Iachim, Sergiu",
+          "black": "Gill, Matthew",
+          "white_nr": "45",
+          "black_nr": "34",
+          "white_rating": "1490",
+          "black_rating": "1654",
+          "result": " 0-1 "
+        },
+        {
+          "board": "22",
+          "white": "Esmer, Hamza",
+          "black": "Youtsaluk, Daryna",
+          "white_nr": "35",
+          "black_nr": "48",
+          "white_rating": "1623",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "23",
+          "white": "Verbeke, Tom",
+          "black": "Londers, Tuur",
+          "white_nr": "46",
+          "black_nr": "36",
+          "white_rating": "0",
+          "black_rating": "1620",
+          "result": " 0-1 "
+        },
+        {
+          "board": "24",
+          "white": "De Meyere, Dirk",
+          "black": "Van Der Eecken, Wout",
+          "white_nr": "37",
+          "black_nr": "49",
+          "white_rating": "1619",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "25",
+          "white": "Moallem, Ali",
+          "black": "(bye)",
+          "white_nr": "47",
+          "black_nr": "0",
+          "white_rating": "0",
+          "black_rating": "0",
+          "result": " 1-0 "
+        }
+      ]
+    },
+    {
+      "round_number": "3",
+      "date": "22.09.2024",
+      "games": [
+        {
+          "board": "1",
+          "white": "Dreelinck, Jacob",
+          "black": "Ramacker, Quinten",
+          "white_nr": "2",
+          "black_nr": "9",
+          "white_rating": "2334",
+          "black_rating": "2082",
+          "result": " 1-0 "
+        },
+        {
+          "board": "2",
+          "white": "Vandenhole, Kobe",
+          "black": "Dauw, Sterre",
+          "white_nr": "8",
+          "black_nr": "3",
+          "white_rating": "2087",
+          "black_rating": "2310",
+          "result": " �-� "
+        },
+        {
+          "board": "3",
+          "white": "Alienkin, Aleksander",
+          "black": "Colin, Peter",
+          "white_nr": "4",
+          "black_nr": "17",
+          "white_rating": "2293",
+          "black_rating": "1921",
+          "result": " 1-0 "
+        },
+        {
+          "board": "4",
+          "white": "Zouaghi, Amir",
+          "black": "Roos, Adrian",
+          "white_nr": "10",
+          "black_nr": "5",
+          "white_rating": "2075",
+          "black_rating": "2223",
+          "result": " 1-0 "
+        },
+        {
+          "board": "5",
+          "white": "Tanishq Gupta",
+          "black": "Pauwels, Xander",
+          "white_nr": "25",
+          "black_nr": "7",
+          "white_rating": "1813",
+          "black_rating": "2145",
+          "result": " 0-1 "
+        },
+        {
+          "board": "6",
+          "white": "Roelandt, Andreas",
+          "black": "Londers, Jan",
+          "white_nr": "14",
+          "black_nr": "23",
+          "white_rating": "1961",
+          "black_rating": "1818",
+          "result": " 0-1 "
+        },
+        {
+          "board": "7",
+          "white": "Dgebuadze, Alexandre",
+          "black": "Van De Putte, Ben",
+          "white_nr": "1",
+          "black_nr": "24",
+          "white_rating": "2435",
+          "black_rating": "1816",
+          "result": " 1-0 "
+        },
+        {
+          "board": "8",
+          "white": "Dreelinck, Adriaan",
+          "black": "Esmer, Kemal Eymen",
+          "white_nr": "6",
+          "black_nr": "27",
+          "white_rating": "2159",
+          "black_rating": "1746",
+          "result": " 1-0 "
+        },
+        {
+          "board": "9",
+          "white": "Clabost, Sam",
+          "black": "Van Kessel, Wessel",
+          "white_nr": "22",
+          "black_nr": "11",
+          "white_rating": "1823",
+          "black_rating": "2017",
+          "result": " 0-1 "
+        },
+        {
+          "board": "10",
+          "white": "De Geest, Hannes",
+          "black": "Degraeve, Ruben",
+          "white_nr": "12",
+          "black_nr": "29",
+          "white_rating": "1992",
+          "black_rating": "1735",
+          "result": " 1-0 "
+        },
+        {
+          "board": "11",
+          "white": "Koops, Niels",
+          "black": "Vanduyfhuys, Igor",
+          "white_nr": "30",
+          "black_nr": "13",
+          "white_rating": "1734",
+          "black_rating": "1974",
+          "result": " 0-1 "
+        },
+        {
+          "board": "12",
+          "white": "Gill, Matthew",
+          "black": "Lot, Diederik",
+          "white_nr": "34",
+          "black_nr": "15",
+          "white_rating": "1654",
+          "black_rating": "1949",
+          "result": " 0-1 "
+        },
+        {
+          "board": "13",
+          "white": "Maes, Tibo",
+          "black": "Decaestecker, Maarten",
+          "white_nr": "16",
+          "black_nr": "31",
+          "white_rating": "1930",
+          "black_rating": "1734",
+          "result": " 1-0 "
+        },
+        {
+          "board": "14",
+          "white": "Boodts, Jeroen",
+          "black": "Van Roy, Arno",
+          "white_nr": "18",
+          "black_nr": "33",
+          "white_rating": "1899",
+          "black_rating": "1686",
+          "result": " 1-0 "
+        },
+        {
+          "board": "15",
+          "white": "Londers, Tuur",
+          "black": "Heymans, Berwout",
+          "white_nr": "36",
+          "black_nr": "19",
+          "white_rating": "1620",
+          "black_rating": "1889",
+          "result": " 0-1 "
+        },
+        {
+          "board": "16",
+          "white": "Veldeman, Sieben",
+          "black": "Esmer, Hamza",
+          "white_nr": "20",
+          "black_nr": "35",
+          "white_rating": "1848",
+          "black_rating": "1623",
+          "result": " 0-1 "
+        },
+        {
+          "board": "17",
+          "white": "Moallem, Ali",
+          "black": "Debunne, Lasse",
+          "white_nr": "47",
+          "black_nr": "21",
+          "white_rating": "0",
+          "black_rating": "1840",
+          "result": " 0-1 "
+        },
+        {
+          "board": "18",
+          "white": "De Meyer, Nicolas",
+          "black": "De Meyere, Dirk",
+          "white_nr": "28",
+          "black_nr": "37",
+          "white_rating": "1739",
+          "black_rating": "1619",
+          "result": " 1-0 "
+        },
+        {
+          "board": "19",
+          "white": "De Lombaerde, Yves",
+          "black": "Verbeke, Basiel",
+          "white_nr": "32",
+          "black_nr": "39",
+          "white_rating": "1694",
+          "black_rating": "1600",
+          "result": " 0-1 "
+        },
+        {
+          "board": "20",
+          "white": "Evens, Joris",
+          "black": "Ruysseveldt, Sam",
+          "white_nr": "38",
+          "black_nr": "43",
+          "white_rating": "1616",
+          "black_rating": "1531",
+          "result": " 1-0 "
+        },
+        {
+          "board": "21",
+          "white": "Ganguly, Aayush",
+          "black": "Iachim, Sergiu",
+          "white_nr": "26",
+          "black_nr": "45",
+          "white_rating": "1768",
+          "black_rating": "1490",
+          "result": " 1-0 "
+        },
+        {
+          "board": "22",
+          "white": "Blykers, Jan",
+          "black": "Verbeke, Tom",
+          "white_nr": "40",
+          "black_nr": "46",
+          "white_rating": "1584",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "23",
+          "white": "Francois, Emile",
+          "black": "Baetens, Christophe",
+          "white_nr": "44",
+          "black_nr": "41",
+          "white_rating": "1525",
+          "black_rating": "1567",
+          "result": " 0-1 "
+        },
+        {
+          "board": "24",
+          "white": "Trizulla, Tristen",
+          "black": "Youtsaluk, Daryna",
+          "white_nr": "42",
+          "black_nr": "48",
+          "white_rating": "1557",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "25",
+          "white": "Van Der Eecken, Wout",
+          "black": "(bye)",
+          "white_nr": "49",
+          "black_nr": "0",
+          "white_rating": "0",
+          "black_rating": "0",
+          "result": " 1-0 "
+        }
+      ]
+    },
+    {
+      "round_number": "4",
+      "date": "22.09.2024",
+      "games": [
+        {
+          "board": "1",
+          "white": "Pauwels, Xander",
+          "black": "Dreelinck, Jacob",
+          "white_nr": "7",
+          "black_nr": "2",
+          "white_rating": "2145",
+          "black_rating": "2334",
+          "result": " 0-1 "
+        },
+        {
+          "board": "2",
+          "white": "Londers, Jan",
+          "black": "Alienkin, Aleksander",
+          "white_nr": "23",
+          "black_nr": "4",
+          "white_rating": "1818",
+          "black_rating": "2293",
+          "result": " 0-1 "
+        },
+        {
+          "board": "3",
+          "white": "Dauw, Sterre",
+          "black": "Zouaghi, Amir",
+          "white_nr": "3",
+          "black_nr": "10",
+          "white_rating": "2310",
+          "black_rating": "2075",
+          "result": " 1-0 "
+        },
+        {
+          "board": "4",
+          "white": "Vandenhole, Kobe",
+          "black": "Dgebuadze, Alexandre",
+          "white_nr": "8",
+          "black_nr": "1",
+          "white_rating": "2087",
+          "black_rating": "2435",
+          "result": " 0-1 "
+        },
+        {
+          "board": "5",
+          "white": "Roos, Adrian",
+          "black": "Maes, Tibo",
+          "white_nr": "5",
+          "black_nr": "16",
+          "white_rating": "2223",
+          "black_rating": "1930",
+          "result": " 1-0 "
+        },
+        {
+          "board": "6",
+          "white": "Heymans, Berwout",
+          "black": "Dreelinck, Adriaan",
+          "white_nr": "19",
+          "black_nr": "6",
+          "white_rating": "1889",
+          "black_rating": "2159",
+          "result": " 0-1 "
+        },
+        {
+          "board": "7",
+          "white": "Ramacker, Quinten",
+          "black": "Boodts, Jeroen",
+          "white_nr": "9",
+          "black_nr": "18",
+          "white_rating": "2082",
+          "black_rating": "1899",
+          "result": " 1-0 "
+        },
+        {
+          "board": "8",
+          "white": "Van Kessel, Wessel",
+          "black": "Colin, Peter",
+          "white_nr": "11",
+          "black_nr": "17",
+          "white_rating": "2017",
+          "black_rating": "1921",
+          "result": " 1-0 "
+        },
+        {
+          "board": "9",
+          "white": "Debunne, Lasse",
+          "black": "De Geest, Hannes",
+          "white_nr": "21",
+          "black_nr": "12",
+          "white_rating": "1840",
+          "black_rating": "1992",
+          "result": " 0-1 "
+        },
+        {
+          "board": "10",
+          "white": "Vanduyfhuys, Igor",
+          "black": "Tanishq Gupta",
+          "white_nr": "13",
+          "black_nr": "25",
+          "white_rating": "1974",
+          "black_rating": "1813",
+          "result": " 0-1 "
+        },
+        {
+          "board": "11",
+          "white": "Lot, Diederik",
+          "black": "Esmer, Hamza",
+          "white_nr": "15",
+          "black_nr": "35",
+          "white_rating": "1949",
+          "black_rating": "1623",
+          "result": " 0-1 "
+        },
+        {
+          "board": "12",
+          "white": "De Meyer, Nicolas",
+          "black": "Roelandt, Andreas",
+          "white_nr": "28",
+          "black_nr": "14",
+          "white_rating": "1739",
+          "black_rating": "1961",
+          "result": " 0-1 "
+        },
+        {
+          "board": "13",
+          "white": "Verbeke, Basiel",
+          "black": "Van De Putte, Ben",
+          "white_nr": "39",
+          "black_nr": "24",
+          "white_rating": "1600",
+          "black_rating": "1816",
+          "result": " 1-0 "
+        },
+        {
+          "board": "14",
+          "white": "De Meyere, Dirk",
+          "black": "Veldeman, Sieben",
+          "white_nr": "37",
+          "black_nr": "20",
+          "white_rating": "1619",
+          "black_rating": "1848",
+          "result": " 0-1 "
+        },
+        {
+          "board": "15",
+          "white": "Baetens, Christophe",
+          "black": "Clabost, Sam",
+          "white_nr": "41",
+          "black_nr": "22",
+          "white_rating": "1567",
+          "black_rating": "1823",
+          "result": " 0-1 "
+        },
+        {
+          "board": "16",
+          "white": "Van Der Eecken, Wout",
+          "black": "Ganguly, Aayush",
+          "white_nr": "49",
+          "black_nr": "26",
+          "white_rating": "0",
+          "black_rating": "1768",
+          "result": " 0-1 "
+        },
+        {
+          "board": "17",
+          "white": "Esmer, Kemal Eymen",
+          "black": "Gill, Matthew",
+          "white_nr": "27",
+          "black_nr": "34",
+          "white_rating": "1746",
+          "black_rating": "1654",
+          "result": " 1-0 "
+        },
+        {
+          "board": "18",
+          "white": "Degraeve, Ruben",
+          "black": "Londers, Tuur",
+          "white_nr": "29",
+          "black_nr": "36",
+          "white_rating": "1735",
+          "black_rating": "1620",
+          "result": " 0-1 "
+        },
+        {
+          "board": "19",
+          "white": "Evens, Joris",
+          "black": "Koops, Niels",
+          "white_nr": "38",
+          "black_nr": "30",
+          "white_rating": "1616",
+          "black_rating": "1734",
+          "result": " 0-1 "
+        },
+        {
+          "board": "20",
+          "white": "Decaestecker, Maarten",
+          "black": "Blykers, Jan",
+          "white_nr": "31",
+          "black_nr": "40",
+          "white_rating": "1734",
+          "black_rating": "1584",
+          "result": " 1-0 "
+        },
+        {
+          "board": "21",
+          "white": "Van Roy, Arno",
+          "black": "Trizulla, Tristen",
+          "white_nr": "33",
+          "black_nr": "42",
+          "white_rating": "1686",
+          "black_rating": "1557",
+          "result": " 1-0 "
+        },
+        {
+          "board": "22",
+          "white": "Ruysseveldt, Sam",
+          "black": "Moallem, Ali",
+          "white_nr": "43",
+          "black_nr": "47",
+          "white_rating": "1531",
+          "black_rating": "0",
+          "result": " 0-1 "
+        },
+        {
+          "board": "23",
+          "white": "Iachim, Sergiu",
+          "black": "De Lombaerde, Yves",
+          "white_nr": "45",
+          "black_nr": "32",
+          "white_rating": "1490",
+          "black_rating": "1694",
+          "result": " 0-1 "
+        },
+        {
+          "board": "24",
+          "white": "Verbeke, Tom",
+          "black": "Francois, Emile",
+          "white_nr": "46",
+          "black_nr": "44",
+          "white_rating": "0",
+          "black_rating": "1525",
+          "result": " 1-0 "
+        },
+        {
+          "board": "25",
+          "white": "Youtsaluk, Daryna",
+          "black": "(bye)",
+          "white_nr": "48",
+          "black_nr": "0",
+          "white_rating": "0",
+          "black_rating": "0",
+          "result": " 1-0 "
+        }
+      ]
+    },
+    {
+      "round_number": "5",
+      "date": "22.09.2024",
+      "games": [
+        {
+          "board": "1",
+          "white": "Dreelinck, Jacob",
+          "black": "Alienkin, Aleksander",
+          "white_nr": "2",
+          "black_nr": "4",
+          "white_rating": "2334",
+          "black_rating": "2293",
+          "result": " 0-1 "
+        },
+        {
+          "board": "2",
+          "white": "Dgebuadze, Alexandre",
+          "black": "Dauw, Sterre",
+          "white_nr": "1",
+          "black_nr": "3",
+          "white_rating": "2435",
+          "black_rating": "2310",
+          "result": " 1-0 "
+        },
+        {
+          "board": "3",
+          "white": "De Geest, Hannes",
+          "black": "Roos, Adrian",
+          "white_nr": "12",
+          "black_nr": "5",
+          "white_rating": "1992",
+          "black_rating": "2223",
+          "result": " 0-1 "
+        },
+        {
+          "board": "4",
+          "white": "Dreelinck, Adriaan",
+          "black": "Van Kessel, Wessel",
+          "white_nr": "6",
+          "black_nr": "11",
+          "white_rating": "2159",
+          "black_rating": "2017",
+          "result": " 1-0 "
+        },
+        {
+          "board": "5",
+          "white": "Esmer, Hamza",
+          "black": "Pauwels, Xander",
+          "white_nr": "35",
+          "black_nr": "7",
+          "white_rating": "1623",
+          "black_rating": "2145",
+          "result": " 0-1 "
+        },
+        {
+          "board": "6",
+          "white": "Tanishq Gupta",
+          "black": "Ramacker, Quinten",
+          "white_nr": "25",
+          "black_nr": "9",
+          "white_rating": "1813",
+          "black_rating": "2082",
+          "result": " 1-0 "
+        },
+        {
+          "board": "7",
+          "white": "Zouaghi, Amir",
+          "black": "Londers, Jan",
+          "white_nr": "10",
+          "black_nr": "23",
+          "white_rating": "2075",
+          "black_rating": "1818",
+          "result": " 1-0 "
+        },
+        {
+          "board": "8",
+          "white": "Roelandt, Andreas",
+          "black": "Vandenhole, Kobe",
+          "white_nr": "14",
+          "black_nr": "8",
+          "white_rating": "1961",
+          "black_rating": "2087",
+          "result": " 0-1 "
+        },
+        {
+          "board": "9",
+          "white": "Maes, Tibo",
+          "black": "Verbeke, Basiel",
+          "white_nr": "16",
+          "black_nr": "39",
+          "white_rating": "1930",
+          "black_rating": "1600",
+          "result": " 1-0 "
+        },
+        {
+          "board": "10",
+          "white": "Clabost, Sam",
+          "black": "Vanduyfhuys, Igor",
+          "white_nr": "22",
+          "black_nr": "13",
+          "white_rating": "1823",
+          "black_rating": "1974",
+          "result": " 1-0 "
+        },
+        {
+          "board": "11",
+          "white": "Ganguly, Aayush",
+          "black": "Lot, Diederik",
+          "white_nr": "26",
+          "black_nr": "15",
+          "white_rating": "1768",
+          "black_rating": "1949",
+          "result": " 0-1 "
+        },
+        {
+          "board": "12",
+          "white": "Colin, Peter",
+          "black": "Esmer, Kemal Eymen",
+          "white_nr": "17",
+          "black_nr": "27",
+          "white_rating": "1921",
+          "black_rating": "1746",
+          "result": " 1-0 "
+        },
+        {
+          "board": "13",
+          "white": "Boodts, Jeroen",
+          "black": "Decaestecker, Maarten",
+          "white_nr": "18",
+          "black_nr": "31",
+          "white_rating": "1899",
+          "black_rating": "1734",
+          "result": " 1-0 "
+        },
+        {
+          "board": "14",
+          "white": "Koops, Niels",
+          "black": "Heymans, Berwout",
+          "white_nr": "30",
+          "black_nr": "19",
+          "white_rating": "1734",
+          "black_rating": "1889",
+          "result": " 0-1 "
+        },
+        {
+          "board": "15",
+          "white": "Veldeman, Sieben",
+          "black": "Van Roy, Arno",
+          "white_nr": "20",
+          "black_nr": "33",
+          "white_rating": "1848",
+          "black_rating": "1686",
+          "result": " 1-0 "
+        },
+        {
+          "board": "16",
+          "white": "Moallem, Ali",
+          "black": "Londers, Tuur",
+          "white_nr": "47",
+          "black_nr": "36",
+          "white_rating": "0",
+          "black_rating": "1620",
+          "result": " 0-1 "
+        },
+        {
+          "board": "17",
+          "white": "Van De Putte, Ben",
+          "black": "Debunne, Lasse",
+          "white_nr": "24",
+          "black_nr": "21",
+          "white_rating": "1816",
+          "black_rating": "1840",
+          "result": " 1-0 "
+        },
+        {
+          "board": "18",
+          "white": "De Lombaerde, Yves",
+          "black": "De Meyer, Nicolas",
+          "white_nr": "32",
+          "black_nr": "28",
+          "white_rating": "1694",
+          "black_rating": "1739",
+          "result": " 1-0 "
+        },
+        {
+          "board": "19",
+          "white": "Trizulla, Tristen",
+          "black": "Degraeve, Ruben",
+          "white_nr": "42",
+          "black_nr": "29",
+          "white_rating": "1557",
+          "black_rating": "1735",
+          "result": " 0-1 "
+        },
+        {
+          "board": "20",
+          "white": "Gill, Matthew",
+          "black": "Baetens, Christophe",
+          "white_nr": "34",
+          "black_nr": "41",
+          "white_rating": "1654",
+          "black_rating": "1567",
+          "result": " 1-0 "
+        },
+        {
+          "board": "21",
+          "white": "Youtsaluk, Daryna",
+          "black": "De Meyere, Dirk",
+          "white_nr": "48",
+          "black_nr": "37",
+          "white_rating": "0",
+          "black_rating": "1619",
+          "result": " 0-1 "
+        },
+        {
+          "board": "22",
+          "white": "Verbeke, Tom",
+          "black": "Evens, Joris",
+          "white_nr": "46",
+          "black_nr": "38",
+          "white_rating": "0",
+          "black_rating": "1616",
+          "result": " 0-1 "
+        },
+        {
+          "board": "23",
+          "white": "Blykers, Jan",
+          "black": "Van Der Eecken, Wout",
+          "white_nr": "40",
+          "black_nr": "49",
+          "white_rating": "1584",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "24",
+          "white": "Francois, Emile",
+          "black": "Ruysseveldt, Sam",
+          "white_nr": "44",
+          "black_nr": "43",
+          "white_rating": "1525",
+          "black_rating": "1531",
+          "result": " 1-0 "
+        },
+        {
+          "board": "25",
+          "white": "Iachim, Sergiu",
+          "black": "(bye)",
+          "white_nr": "45",
+          "black_nr": "0",
+          "white_rating": "1490",
+          "black_rating": "0",
+          "result": " 1-0 "
+        }
+      ]
+    },
+    {
+      "round_number": "6",
+      "date": "22.09.2024",
+      "games": [
+        {
+          "board": "1",
+          "white": "Alienkin, Aleksander",
+          "black": "Dgebuadze, Alexandre",
+          "white_nr": "4",
+          "black_nr": "1",
+          "white_rating": "2293",
+          "black_rating": "2435",
+          "result": " �-� "
+        },
+        {
+          "board": "2",
+          "white": "Zouaghi, Amir",
+          "black": "Dreelinck, Jacob",
+          "white_nr": "10",
+          "black_nr": "2",
+          "white_rating": "2075",
+          "black_rating": "2334",
+          "result": " 0-1 "
+        },
+        {
+          "board": "3",
+          "white": "Roos, Adrian",
+          "black": "Tanishq Gupta",
+          "white_nr": "5",
+          "black_nr": "25",
+          "white_rating": "2223",
+          "black_rating": "1813",
+          "result": " 1-0 "
+        },
+        {
+          "board": "4",
+          "white": "Pauwels, Xander",
+          "black": "Dreelinck, Adriaan",
+          "white_nr": "7",
+          "black_nr": "6",
+          "white_rating": "2145",
+          "black_rating": "2159",
+          "result": " 0-1 "
+        },
+        {
+          "board": "5",
+          "white": "Dauw, Sterre",
+          "black": "Ramacker, Quinten",
+          "white_nr": "3",
+          "black_nr": "9",
+          "white_rating": "2310",
+          "black_rating": "2082",
+          "result": " 1-0 "
+        },
+        {
+          "board": "6",
+          "white": "Van Kessel, Wessel",
+          "black": "Vandenhole, Kobe",
+          "white_nr": "11",
+          "black_nr": "8",
+          "white_rating": "2017",
+          "black_rating": "2087",
+          "result": " 0-1 "
+        },
+        {
+          "board": "7",
+          "white": "Heymans, Berwout",
+          "black": "De Geest, Hannes",
+          "white_nr": "19",
+          "black_nr": "12",
+          "white_rating": "1889",
+          "black_rating": "1992",
+          "result": " 0-1 "
+        },
+        {
+          "board": "8",
+          "white": "Lot, Diederik",
+          "black": "Veldeman, Sieben",
+          "white_nr": "15",
+          "black_nr": "20",
+          "white_rating": "1949",
+          "black_rating": "1848",
+          "result": " 1-0 "
+        },
+        {
+          "board": "9",
+          "white": "Londers, Jan",
+          "black": "Maes, Tibo",
+          "white_nr": "23",
+          "black_nr": "16",
+          "white_rating": "1818",
+          "black_rating": "1930",
+          "result": " 0-1 "
+        },
+        {
+          "board": "10",
+          "white": "Colin, Peter",
+          "black": "Clabost, Sam",
+          "white_nr": "17",
+          "black_nr": "22",
+          "white_rating": "1921",
+          "black_rating": "1823",
+          "result": " 0-1 "
+        },
+        {
+          "board": "11",
+          "white": "Esmer, Hamza",
+          "black": "Boodts, Jeroen",
+          "white_nr": "35",
+          "black_nr": "18",
+          "white_rating": "1623",
+          "black_rating": "1899",
+          "result": " 1-0 "
+        },
+        {
+          "board": "12",
+          "white": "Londers, Tuur",
+          "black": "Roelandt, Andreas",
+          "white_nr": "36",
+          "black_nr": "14",
+          "white_rating": "1620",
+          "black_rating": "1961",
+          "result": " 0-1 "
+        },
+        {
+          "board": "13",
+          "white": "Van De Putte, Ben",
+          "black": "De Lombaerde, Yves",
+          "white_nr": "24",
+          "black_nr": "32",
+          "white_rating": "1816",
+          "black_rating": "1694",
+          "result": " 1-0 "
+        },
+        {
+          "board": "14",
+          "white": "Verbeke, Basiel",
+          "black": "Vanduyfhuys, Igor",
+          "white_nr": "39",
+          "black_nr": "13",
+          "white_rating": "1600",
+          "black_rating": "1974",
+          "result": " 0-1 "
+        },
+        {
+          "board": "15",
+          "white": "Debunne, Lasse",
+          "black": "Gill, Matthew",
+          "white_nr": "21",
+          "black_nr": "34",
+          "white_rating": "1840",
+          "black_rating": "1654",
+          "result": " 1-0 "
+        },
+        {
+          "board": "16",
+          "white": "Van Roy, Arno",
+          "black": "Ganguly, Aayush",
+          "white_nr": "33",
+          "black_nr": "26",
+          "white_rating": "1686",
+          "black_rating": "1768",
+          "result": " 0-1 "
+        },
+        {
+          "board": "17",
+          "white": "Esmer, Kemal Eymen",
+          "black": "Blykers, Jan",
+          "white_nr": "27",
+          "black_nr": "40",
+          "white_rating": "1746",
+          "black_rating": "1584",
+          "result": " 1-0 "
+        },
+        {
+          "board": "18",
+          "white": "Degraeve, Ruben",
+          "black": "Evens, Joris",
+          "white_nr": "29",
+          "black_nr": "38",
+          "white_rating": "1735",
+          "black_rating": "1616",
+          "result": " 1-0 "
+        },
+        {
+          "board": "19",
+          "white": "De Meyere, Dirk",
+          "black": "Koops, Niels",
+          "white_nr": "37",
+          "black_nr": "30",
+          "white_rating": "1619",
+          "black_rating": "1734",
+          "result": " 1-0 "
+        },
+        {
+          "board": "20",
+          "white": "Decaestecker, Maarten",
+          "black": "Moallem, Ali",
+          "white_nr": "31",
+          "black_nr": "47",
+          "white_rating": "1734",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "21",
+          "white": "Baetens, Christophe",
+          "black": "De Meyer, Nicolas",
+          "white_nr": "41",
+          "black_nr": "28",
+          "white_rating": "1567",
+          "black_rating": "1739",
+          "result": " �-� "
+        },
+        {
+          "board": "22",
+          "white": "Van Der Eecken, Wout",
+          "black": "Trizulla, Tristen",
+          "white_nr": "49",
+          "black_nr": "42",
+          "white_rating": "0",
+          "black_rating": "1557",
+          "result": " 1-0 "
+        },
+        {
+          "board": "23",
+          "white": "Youtsaluk, Daryna",
+          "black": "Francois, Emile",
+          "white_nr": "48",
+          "black_nr": "44",
+          "white_rating": "0",
+          "black_rating": "1525",
+          "result": " �-� "
+        },
+        {
+          "board": "24",
+          "white": "Ruysseveldt, Sam",
+          "black": "Iachim, Sergiu",
+          "white_nr": "43",
+          "black_nr": "45",
+          "white_rating": "1531",
+          "black_rating": "1490",
+          "result": " 1-0 "
+        },
+        {
+          "board": "25",
+          "white": "Verbeke, Tom",
+          "black": "(bye)",
+          "white_nr": "46",
+          "black_nr": "0",
+          "white_rating": "0",
+          "black_rating": "0",
+          "result": " 1-0 "
+        }
+      ]
+    },
+    {
+      "round_number": "7",
+      "date": "22.09.2024",
+      "games": [
+        {
+          "board": "1",
+          "white": "Dreelinck, Adriaan",
+          "black": "Alienkin, Aleksander",
+          "white_nr": "6",
+          "black_nr": "4",
+          "white_rating": "2159",
+          "black_rating": "2293",
+          "result": " 0-1 "
+        },
+        {
+          "board": "2",
+          "white": "Dreelinck, Jacob",
+          "black": "Dauw, Sterre",
+          "white_nr": "2",
+          "black_nr": "3",
+          "white_rating": "2334",
+          "black_rating": "2310",
+          "result": " 0-1 "
+        },
+        {
+          "board": "3",
+          "white": "Vandenhole, Kobe",
+          "black": "Roos, Adrian",
+          "white_nr": "8",
+          "black_nr": "5",
+          "white_rating": "2087",
+          "black_rating": "2223",
+          "result": " 1-0 "
+        },
+        {
+          "board": "4",
+          "white": "Dgebuadze, Alexandre",
+          "black": "Pauwels, Xander",
+          "white_nr": "1",
+          "black_nr": "7",
+          "white_rating": "2435",
+          "black_rating": "2145",
+          "result": " �-� "
+        },
+        {
+          "board": "5",
+          "white": "Maes, Tibo",
+          "black": "Zouaghi, Amir",
+          "white_nr": "16",
+          "black_nr": "10",
+          "white_rating": "1930",
+          "black_rating": "2075",
+          "result": " 0-1 "
+        },
+        {
+          "board": "6",
+          "white": "De Geest, Hannes",
+          "black": "Esmer, Hamza",
+          "white_nr": "12",
+          "black_nr": "35",
+          "white_rating": "1992",
+          "black_rating": "1623",
+          "result": " 0-1 "
+        },
+        {
+          "board": "7",
+          "white": "Clabost, Sam",
+          "black": "Lot, Diederik",
+          "white_nr": "22",
+          "black_nr": "15",
+          "white_rating": "1823",
+          "black_rating": "1949",
+          "result": " 0-1 "
+        },
+        {
+          "board": "8",
+          "white": "Tanishq Gupta",
+          "black": "Colin, Peter",
+          "white_nr": "25",
+          "black_nr": "17",
+          "white_rating": "1813",
+          "black_rating": "1921",
+          "result": " 1-0 "
+        },
+        {
+          "board": "9",
+          "white": "Roelandt, Andreas",
+          "black": "Van De Putte, Ben",
+          "white_nr": "14",
+          "black_nr": "24",
+          "white_rating": "1961",
+          "black_rating": "1816",
+          "result": " 1-0 "
+        },
+        {
+          "board": "10",
+          "white": "Ramacker, Quinten",
+          "black": "Londers, Jan",
+          "white_nr": "9",
+          "black_nr": "23",
+          "white_rating": "2082",
+          "black_rating": "1818",
+          "result": " 1-0 "
+        },
+        {
+          "board": "11",
+          "white": "Ganguly, Aayush",
+          "black": "Van Kessel, Wessel",
+          "white_nr": "26",
+          "black_nr": "11",
+          "white_rating": "1768",
+          "black_rating": "2017",
+          "result": " �-� "
+        },
+        {
+          "board": "12",
+          "white": "Vanduyfhuys, Igor",
+          "black": "Esmer, Kemal Eymen",
+          "white_nr": "13",
+          "black_nr": "27",
+          "white_rating": "1974",
+          "black_rating": "1746",
+          "result": " 1-0 "
+        },
+        {
+          "board": "13",
+          "white": "Boodts, Jeroen",
+          "black": "Degraeve, Ruben",
+          "white_nr": "18",
+          "black_nr": "29",
+          "white_rating": "1899",
+          "black_rating": "1735",
+          "result": " 1-0 "
+        },
+        {
+          "board": "14",
+          "white": "Decaestecker, Maarten",
+          "black": "Heymans, Berwout",
+          "white_nr": "31",
+          "black_nr": "19",
+          "white_rating": "1734",
+          "black_rating": "1889",
+          "result": " 0-1 "
+        },
+        {
+          "board": "15",
+          "white": "Veldeman, Sieben",
+          "black": "Londers, Tuur",
+          "white_nr": "20",
+          "black_nr": "36",
+          "white_rating": "1848",
+          "black_rating": "1620",
+          "result": " 0-1 "
+        },
+        {
+          "board": "16",
+          "white": "De Meyere, Dirk",
+          "black": "Debunne, Lasse",
+          "white_nr": "37",
+          "black_nr": "21",
+          "white_rating": "1619",
+          "black_rating": "1840",
+          "result": " 0-1 "
+        },
+        {
+          "board": "17",
+          "white": "De Lombaerde, Yves",
+          "black": "Koops, Niels",
+          "white_nr": "32",
+          "black_nr": "30",
+          "white_rating": "1694",
+          "black_rating": "1734",
+          "result": " 1-0 "
+        },
+        {
+          "board": "18",
+          "white": "Gill, Matthew",
+          "black": "Verbeke, Basiel",
+          "white_nr": "34",
+          "black_nr": "39",
+          "white_rating": "1654",
+          "black_rating": "1600",
+          "result": " 0-1 "
+        },
+        {
+          "board": "19",
+          "white": "De Meyer, Nicolas",
+          "black": "Verbeke, Tom",
+          "white_nr": "28",
+          "black_nr": "46",
+          "white_rating": "1739",
+          "black_rating": "0",
+          "result": " 0-1 "
+        },
+        {
+          "board": "20",
+          "white": "Blykers, Jan",
+          "black": "Van Roy, Arno",
+          "white_nr": "40",
+          "black_nr": "33",
+          "white_rating": "1584",
+          "black_rating": "1686",
+          "result": " 1-0 "
+        },
+        {
+          "board": "21",
+          "white": "Evens, Joris",
+          "black": "Van Der Eecken, Wout",
+          "white_nr": "38",
+          "black_nr": "49",
+          "white_rating": "1616",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "22",
+          "white": "Moallem, Ali",
+          "black": "Youtsaluk, Daryna",
+          "white_nr": "47",
+          "black_nr": "48",
+          "white_rating": "0",
+          "black_rating": "0",
+          "result": " 0-1 "
+        },
+        {
+          "board": "23",
+          "white": "Ruysseveldt, Sam",
+          "black": "Baetens, Christophe",
+          "white_nr": "43",
+          "black_nr": "41",
+          "white_rating": "1531",
+          "black_rating": "1567",
+          "result": " 1-0 "
+        },
+        {
+          "board": "24",
+          "white": "Iachim, Sergiu",
+          "black": "Francois, Emile",
+          "white_nr": "45",
+          "black_nr": "44",
+          "white_rating": "1490",
+          "black_rating": "1525",
+          "result": " 0-1 "
+        },
+        {
+          "board": "25",
+          "white": "Trizulla, Tristen",
+          "black": "(bye)",
+          "white_nr": "42",
+          "black_nr": "0",
+          "white_rating": "1557",
+          "black_rating": "0",
+          "result": " 1-0 "
+        }
+      ]
+    },
+    {
+      "round_number": "8",
+      "date": "22.09.2024",
+      "games": [
+        {
+          "board": "1",
+          "white": "Alienkin, Aleksander",
+          "black": "Vandenhole, Kobe",
+          "white_nr": "4",
+          "black_nr": "8",
+          "white_rating": "2293",
+          "black_rating": "2087",
+          "result": " 1-0 "
+        },
+        {
+          "board": "2",
+          "white": "Dreelinck, Jacob",
+          "black": "Dgebuadze, Alexandre",
+          "white_nr": "2",
+          "black_nr": "1",
+          "white_rating": "2334",
+          "black_rating": "2435",
+          "result": " 0-1 "
+        },
+        {
+          "board": "3",
+          "white": "Dauw, Sterre",
+          "black": "Roos, Adrian",
+          "white_nr": "3",
+          "black_nr": "5",
+          "white_rating": "2310",
+          "black_rating": "2223",
+          "result": " 1-0 "
+        },
+        {
+          "board": "4",
+          "white": "Lot, Diederik",
+          "black": "Dreelinck, Adriaan",
+          "white_nr": "15",
+          "black_nr": "6",
+          "white_rating": "1949",
+          "black_rating": "2159",
+          "result": " 0-1 "
+        },
+        {
+          "board": "5",
+          "white": "Tanishq Gupta",
+          "black": "Zouaghi, Amir",
+          "white_nr": "25",
+          "black_nr": "10",
+          "white_rating": "1813",
+          "black_rating": "2075",
+          "result": " 1-0 "
+        },
+        {
+          "board": "6",
+          "white": "Esmer, Hamza",
+          "black": "Maes, Tibo",
+          "white_nr": "35",
+          "black_nr": "16",
+          "white_rating": "1623",
+          "black_rating": "1930",
+          "result": " 0-1 "
+        },
+        {
+          "board": "7",
+          "white": "Pauwels, Xander",
+          "black": "Roelandt, Andreas",
+          "white_nr": "7",
+          "black_nr": "14",
+          "white_rating": "2145",
+          "black_rating": "1961",
+          "result": " 1-0 "
+        },
+        {
+          "board": "8",
+          "white": "Ramacker, Quinten",
+          "black": "Heymans, Berwout",
+          "white_nr": "9",
+          "black_nr": "19",
+          "white_rating": "2082",
+          "black_rating": "1889",
+          "result": " 1-0 "
+        },
+        {
+          "board": "9",
+          "white": "Londers, Tuur",
+          "black": "De Geest, Hannes",
+          "white_nr": "36",
+          "black_nr": "12",
+          "white_rating": "1620",
+          "black_rating": "1992",
+          "result": " 1-0 "
+        },
+        {
+          "board": "10",
+          "white": "Vanduyfhuys, Igor",
+          "black": "Boodts, Jeroen",
+          "white_nr": "13",
+          "black_nr": "18",
+          "white_rating": "1974",
+          "black_rating": "1899",
+          "result": " 0-1 "
+        },
+        {
+          "board": "11",
+          "white": "Debunne, Lasse",
+          "black": "Clabost, Sam",
+          "white_nr": "21",
+          "black_nr": "22",
+          "white_rating": "1840",
+          "black_rating": "1823",
+          "result": " �-� "
+        },
+        {
+          "board": "12",
+          "white": "Van Kessel, Wessel",
+          "black": "De Lombaerde, Yves",
+          "white_nr": "11",
+          "black_nr": "32",
+          "white_rating": "2017",
+          "black_rating": "1694",
+          "result": " 1-0 "
+        },
+        {
+          "board": "13",
+          "white": "Verbeke, Basiel",
+          "black": "Ganguly, Aayush",
+          "white_nr": "39",
+          "black_nr": "26",
+          "white_rating": "1600",
+          "black_rating": "1768",
+          "result": " 0-1 "
+        },
+        {
+          "board": "14",
+          "white": "Van De Putte, Ben",
+          "black": "Veldeman, Sieben",
+          "white_nr": "24",
+          "black_nr": "20",
+          "white_rating": "1816",
+          "black_rating": "1848",
+          "result": " 1-0 "
+        },
+        {
+          "board": "15",
+          "white": "Colin, Peter",
+          "black": "Decaestecker, Maarten",
+          "white_nr": "17",
+          "black_nr": "31",
+          "white_rating": "1921",
+          "black_rating": "1734",
+          "result": " �-� "
+        },
+        {
+          "board": "16",
+          "white": "Londers, Jan",
+          "black": "De Meyere, Dirk",
+          "white_nr": "23",
+          "black_nr": "37",
+          "white_rating": "1818",
+          "black_rating": "1619",
+          "result": " 1-0 "
+        },
+        {
+          "board": "17",
+          "white": "Esmer, Kemal Eymen",
+          "black": "Verbeke, Tom",
+          "white_nr": "27",
+          "black_nr": "46",
+          "white_rating": "1746",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "18",
+          "white": "Blykers, Jan",
+          "black": "Evens, Joris",
+          "white_nr": "40",
+          "black_nr": "38",
+          "white_rating": "1584",
+          "black_rating": "1616",
+          "result": " 1-0 "
+        },
+        {
+          "board": "19",
+          "white": "Francois, Emile",
+          "black": "Degraeve, Ruben",
+          "white_nr": "44",
+          "black_nr": "29",
+          "white_rating": "1525",
+          "black_rating": "1735",
+          "result": " �-� "
+        },
+        {
+          "board": "20",
+          "white": "Youtsaluk, Daryna",
+          "black": "Ruysseveldt, Sam",
+          "white_nr": "48",
+          "black_nr": "43",
+          "white_rating": "0",
+          "black_rating": "1531",
+          "result": " 1-0 "
+        },
+        {
+          "board": "21",
+          "white": "Trizulla, Tristen",
+          "black": "De Meyer, Nicolas",
+          "white_nr": "42",
+          "black_nr": "28",
+          "white_rating": "1557",
+          "black_rating": "1739",
+          "result": " �-� "
+        },
+        {
+          "board": "22",
+          "white": "Koops, Niels",
+          "black": "Gill, Matthew",
+          "white_nr": "30",
+          "black_nr": "34",
+          "white_rating": "1734",
+          "black_rating": "1654",
+          "result": " 1-0 "
+        },
+        {
+          "board": "23",
+          "white": "Van Roy, Arno",
+          "black": "Moallem, Ali",
+          "white_nr": "33",
+          "black_nr": "47",
+          "white_rating": "1686",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "24",
+          "white": "Van Der Eecken, Wout",
+          "black": "Iachim, Sergiu",
+          "white_nr": "49",
+          "black_nr": "45",
+          "white_rating": "0",
+          "black_rating": "1490",
+          "result": " 1-0 "
+        },
+        {
+          "board": "25",
+          "white": "Baetens, Christophe",
+          "black": "(bye)",
+          "white_nr": "41",
+          "black_nr": "0",
+          "white_rating": "1567",
+          "black_rating": "0",
+          "result": " 1-0 "
+        }
+      ]
+    },
+    {
+      "round_number": "9",
+      "date": "22.09.2024",
+      "games": [
+        {
+          "board": "1",
+          "white": "Alienkin, Aleksander",
+          "black": "Tanishq Gupta",
+          "white_nr": "4",
+          "black_nr": "25",
+          "white_rating": "2293",
+          "black_rating": "1813",
+          "result": " 1-0 "
+        },
+        {
+          "board": "2",
+          "white": "Dgebuadze, Alexandre",
+          "black": "Dreelinck, Adriaan",
+          "white_nr": "1",
+          "black_nr": "6",
+          "white_rating": "2435",
+          "black_rating": "2159",
+          "result": " 1-0 "
+        },
+        {
+          "board": "3",
+          "white": "Pauwels, Xander",
+          "black": "Dauw, Sterre",
+          "white_nr": "7",
+          "black_nr": "3",
+          "white_rating": "2145",
+          "black_rating": "2310",
+          "result": " �-� "
+        },
+        {
+          "board": "4",
+          "white": "Vandenhole, Kobe",
+          "black": "Ramacker, Quinten",
+          "white_nr": "8",
+          "black_nr": "9",
+          "white_rating": "2087",
+          "black_rating": "2082",
+          "result": " 1-0 "
+        },
+        {
+          "board": "5",
+          "white": "Maes, Tibo",
+          "black": "Dreelinck, Jacob",
+          "white_nr": "16",
+          "black_nr": "2",
+          "white_rating": "1930",
+          "black_rating": "2334",
+          "result": " 1-0 "
+        },
+        {
+          "board": "6",
+          "white": "Roos, Adrian",
+          "black": "Esmer, Hamza",
+          "white_nr": "5",
+          "black_nr": "35",
+          "white_rating": "2223",
+          "black_rating": "1623",
+          "result": " 1-0 "
+        },
+        {
+          "board": "7",
+          "white": "Zouaghi, Amir",
+          "black": "Londers, Tuur",
+          "white_nr": "10",
+          "black_nr": "36",
+          "white_rating": "2075",
+          "black_rating": "1620",
+          "result": " 1-0 "
+        },
+        {
+          "board": "8",
+          "white": "Boodts, Jeroen",
+          "black": "Lot, Diederik",
+          "white_nr": "18",
+          "black_nr": "15",
+          "white_rating": "1899",
+          "black_rating": "1949",
+          "result": " 0-1 "
+        },
+        {
+          "board": "9",
+          "white": "Roelandt, Andreas",
+          "black": "Van Kessel, Wessel",
+          "white_nr": "14",
+          "black_nr": "11",
+          "white_rating": "1961",
+          "black_rating": "2017",
+          "result": " 0-1 "
+        },
+        {
+          "board": "10",
+          "white": "Ganguly, Aayush",
+          "black": "Debunne, Lasse",
+          "white_nr": "26",
+          "black_nr": "21",
+          "white_rating": "1768",
+          "black_rating": "1840",
+          "result": " �-� "
+        },
+        {
+          "board": "11",
+          "white": "Clabost, Sam",
+          "black": "Van De Putte, Ben",
+          "white_nr": "22",
+          "black_nr": "24",
+          "white_rating": "1823",
+          "black_rating": "1816",
+          "result": " 1-0 "
+        },
+        {
+          "board": "12",
+          "white": "De Geest, Hannes",
+          "black": "Esmer, Kemal Eymen",
+          "white_nr": "12",
+          "black_nr": "27",
+          "white_rating": "1992",
+          "black_rating": "1746",
+          "result": " 0-1 "
+        },
+        {
+          "board": "13",
+          "white": "Londers, Jan",
+          "black": "Vanduyfhuys, Igor",
+          "white_nr": "23",
+          "black_nr": "13",
+          "white_rating": "1818",
+          "black_rating": "1974",
+          "result": " 0-1 "
+        },
+        {
+          "board": "14",
+          "white": "Heymans, Berwout",
+          "black": "Blykers, Jan",
+          "white_nr": "19",
+          "black_nr": "40",
+          "white_rating": "1889",
+          "black_rating": "1584",
+          "result": " 1-0 "
+        },
+        {
+          "board": "15",
+          "white": "De Lombaerde, Yves",
+          "black": "Colin, Peter",
+          "white_nr": "32",
+          "black_nr": "17",
+          "white_rating": "1694",
+          "black_rating": "1921",
+          "result": " 0-1 "
+        },
+        {
+          "board": "16",
+          "white": "Degraeve, Ruben",
+          "black": "Verbeke, Basiel",
+          "white_nr": "29",
+          "black_nr": "39",
+          "white_rating": "1735",
+          "black_rating": "1600",
+          "result": " 0-1 "
+        },
+        {
+          "board": "17",
+          "white": "Decaestecker, Maarten",
+          "black": "Youtsaluk, Daryna",
+          "white_nr": "31",
+          "black_nr": "48",
+          "white_rating": "1734",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "18",
+          "white": "Veldeman, Sieben",
+          "black": "Van Der Eecken, Wout",
+          "white_nr": "20",
+          "black_nr": "49",
+          "white_rating": "1848",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "19",
+          "white": "Verbeke, Tom",
+          "black": "Koops, Niels",
+          "white_nr": "46",
+          "black_nr": "30",
+          "white_rating": "0",
+          "black_rating": "1734",
+          "result": " 0-1 "
+        },
+        {
+          "board": "20",
+          "white": "Evens, Joris",
+          "black": "Van Roy, Arno",
+          "white_nr": "38",
+          "black_nr": "33",
+          "white_rating": "1616",
+          "black_rating": "1686",
+          "result": " 0-1 "
+        },
+        {
+          "board": "21",
+          "white": "De Meyere, Dirk",
+          "black": "Francois, Emile",
+          "white_nr": "37",
+          "black_nr": "44",
+          "white_rating": "1619",
+          "black_rating": "1525",
+          "result": " 1-0 "
+        },
+        {
+          "board": "22",
+          "white": "De Meyer, Nicolas",
+          "black": "Ruysseveldt, Sam",
+          "white_nr": "28",
+          "black_nr": "43",
+          "white_rating": "1739",
+          "black_rating": "1531",
+          "result": " 1-0 "
+        },
+        {
+          "board": "23",
+          "white": "Baetens, Christophe",
+          "black": "Moallem, Ali",
+          "white_nr": "41",
+          "black_nr": "47",
+          "white_rating": "1567",
+          "black_rating": "0",
+          "result": " 0-1 "
+        },
+        {
+          "board": "24",
+          "white": "Iachim, Sergiu",
+          "black": "Trizulla, Tristen",
+          "white_nr": "45",
+          "black_nr": "42",
+          "white_rating": "1490",
+          "black_rating": "1557",
+          "result": " 0-1 "
+        },
+        {
+          "board": "25",
+          "white": "Gill, Matthew",
+          "black": "(bye)",
+          "white_nr": "34",
+          "black_nr": "0",
+          "white_rating": "1654",
+          "black_rating": "0",
+          "result": " 1-0 "
+        }
+      ]
+    },
+    {
+      "round_number": "10",
+      "date": "22.09.2024",
+      "games": [
+        {
+          "board": "1",
+          "white": "Dauw, Sterre",
+          "black": "Alienkin, Aleksander",
+          "white_nr": "3",
+          "black_nr": "4",
+          "white_rating": "2310",
+          "black_rating": "2293",
+          "result": " 0-1 "
+        },
+        {
+          "board": "2",
+          "white": "Roos, Adrian",
+          "black": "Dgebuadze, Alexandre",
+          "white_nr": "5",
+          "black_nr": "1",
+          "white_rating": "2223",
+          "black_rating": "2435",
+          "result": " �-� "
+        },
+        {
+          "board": "3",
+          "white": "Dreelinck, Adriaan",
+          "black": "Vandenhole, Kobe",
+          "white_nr": "6",
+          "black_nr": "8",
+          "white_rating": "2159",
+          "black_rating": "2087",
+          "result": " 0-1 "
+        },
+        {
+          "board": "4",
+          "white": "Lot, Diederik",
+          "black": "Pauwels, Xander",
+          "white_nr": "15",
+          "black_nr": "7",
+          "white_rating": "1949",
+          "black_rating": "2145",
+          "result": " 0-1 "
+        },
+        {
+          "board": "5",
+          "white": "Tanishq Gupta",
+          "black": "Maes, Tibo",
+          "white_nr": "25",
+          "black_nr": "16",
+          "white_rating": "1813",
+          "black_rating": "1930",
+          "result": " 0-1 "
+        },
+        {
+          "board": "6",
+          "white": "Van Kessel, Wessel",
+          "black": "Zouaghi, Amir",
+          "white_nr": "11",
+          "black_nr": "10",
+          "white_rating": "2017",
+          "black_rating": "2075",
+          "result": " 1-0 "
+        },
+        {
+          "board": "7",
+          "white": "Heymans, Berwout",
+          "black": "Clabost, Sam",
+          "white_nr": "19",
+          "black_nr": "22",
+          "white_rating": "1889",
+          "black_rating": "1823",
+          "result": " 1-0 "
+        },
+        {
+          "board": "8",
+          "white": "Debunne, Lasse",
+          "black": "Dreelinck, Jacob",
+          "white_nr": "21",
+          "black_nr": "2",
+          "white_rating": "1840",
+          "black_rating": "2334",
+          "result": " 0-1 "
+        },
+        {
+          "board": "9",
+          "white": "Ramacker, Quinten",
+          "black": "Ganguly, Aayush",
+          "white_nr": "9",
+          "black_nr": "26",
+          "white_rating": "2082",
+          "black_rating": "1768",
+          "result": " 1-0 "
+        },
+        {
+          "board": "10",
+          "white": "Vanduyfhuys, Igor",
+          "black": "Esmer, Hamza",
+          "white_nr": "13",
+          "black_nr": "35",
+          "white_rating": "1974",
+          "black_rating": "1623",
+          "result": " 1-0 "
+        },
+        {
+          "board": "11",
+          "white": "Esmer, Kemal Eymen",
+          "black": "Boodts, Jeroen",
+          "white_nr": "27",
+          "black_nr": "18",
+          "white_rating": "1746",
+          "black_rating": "1899",
+          "result": " 0-1 "
+        },
+        {
+          "board": "12",
+          "white": "Londers, Tuur",
+          "black": "Decaestecker, Maarten",
+          "white_nr": "36",
+          "black_nr": "31",
+          "white_rating": "1620",
+          "black_rating": "1734",
+          "result": " 1-0 "
+        },
+        {
+          "board": "13",
+          "white": "Colin, Peter",
+          "black": "Roelandt, Andreas",
+          "white_nr": "17",
+          "black_nr": "14",
+          "white_rating": "1921",
+          "black_rating": "1961",
+          "result": " 0-1 "
+        },
+        {
+          "board": "14",
+          "white": "Van De Putte, Ben",
+          "black": "De Geest, Hannes",
+          "white_nr": "24",
+          "black_nr": "12",
+          "white_rating": "1816",
+          "black_rating": "1992",
+          "result": " 0-1 "
+        },
+        {
+          "board": "15",
+          "white": "Verbeke, Basiel",
+          "black": "Veldeman, Sieben",
+          "white_nr": "39",
+          "black_nr": "20",
+          "white_rating": "1600",
+          "black_rating": "1848",
+          "result": " 0-1 "
+        },
+        {
+          "board": "16",
+          "white": "Van Roy, Arno",
+          "black": "Londers, Jan",
+          "white_nr": "33",
+          "black_nr": "23",
+          "white_rating": "1686",
+          "black_rating": "1818",
+          "result": " 1-0 "
+        },
+        {
+          "board": "17",
+          "white": "Koops, Niels",
+          "black": "Blykers, Jan",
+          "white_nr": "30",
+          "black_nr": "40",
+          "white_rating": "1734",
+          "black_rating": "1584",
+          "result": " 1-0 "
+        },
+        {
+          "board": "18",
+          "white": "Degraeve, Ruben",
+          "black": "De Meyere, Dirk",
+          "white_nr": "29",
+          "black_nr": "37",
+          "white_rating": "1735",
+          "black_rating": "1619",
+          "result": " �-� "
+        },
+        {
+          "board": "19",
+          "white": "Youtsaluk, Daryna",
+          "black": "De Meyer, Nicolas",
+          "white_nr": "48",
+          "black_nr": "28",
+          "white_rating": "0",
+          "black_rating": "1739",
+          "result": " 0-1 "
+        },
+        {
+          "board": "20",
+          "white": "Trizulla, Tristen",
+          "black": "De Lombaerde, Yves",
+          "white_nr": "42",
+          "black_nr": "32",
+          "white_rating": "1557",
+          "black_rating": "1694",
+          "result": " 0-1 "
+        },
+        {
+          "board": "21",
+          "white": "Gill, Matthew",
+          "black": "Verbeke, Tom",
+          "white_nr": "34",
+          "black_nr": "46",
+          "white_rating": "1654",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "22",
+          "white": "Francois, Emile",
+          "black": "Van Der Eecken, Wout",
+          "white_nr": "44",
+          "black_nr": "49",
+          "white_rating": "1525",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "23",
+          "white": "Moallem, Ali",
+          "black": "Iachim, Sergiu",
+          "white_nr": "47",
+          "black_nr": "45",
+          "white_rating": "0",
+          "black_rating": "1490",
+          "result": " 1-0 "
+        },
+        {
+          "board": "24",
+          "white": "Baetens, Christophe",
+          "black": "Evens, Joris",
+          "white_nr": "41",
+          "black_nr": "38",
+          "white_rating": "1567",
+          "black_rating": "1616",
+          "result": " 0-1 "
+        },
+        {
+          "board": "25",
+          "white": "Ruysseveldt, Sam",
+          "black": "(bye)",
+          "white_nr": "43",
+          "black_nr": "0",
+          "white_rating": "1531",
+          "black_rating": "0",
+          "result": " 1-0 "
+        }
+      ]
+    },
+    {
+      "round_number": "11",
+      "date": "22.09.2024",
+      "games": [
+        {
+          "board": "1",
+          "white": "Alienkin, Aleksander",
+          "black": "Pauwels, Xander",
+          "white_nr": "4",
+          "black_nr": "7",
+          "white_rating": "2293",
+          "black_rating": "2145",
+          "result": " �-� "
+        },
+        {
+          "board": "2",
+          "white": "Dgebuadze, Alexandre",
+          "black": "Maes, Tibo",
+          "white_nr": "1",
+          "black_nr": "16",
+          "white_rating": "2435",
+          "black_rating": "1930",
+          "result": " 1-0 "
+        },
+        {
+          "board": "3",
+          "white": "Boodts, Jeroen",
+          "black": "Dauw, Sterre",
+          "white_nr": "18",
+          "black_nr": "3",
+          "white_rating": "1899",
+          "black_rating": "2310",
+          "result": " 0-1 "
+        },
+        {
+          "board": "4",
+          "white": "Vandenhole, Kobe",
+          "black": "Vanduyfhuys, Igor",
+          "white_nr": "8",
+          "black_nr": "13",
+          "white_rating": "2087",
+          "black_rating": "1974",
+          "result": " 1-0 "
+        },
+        {
+          "board": "5",
+          "white": "Van Kessel, Wessel",
+          "black": "Roos, Adrian",
+          "white_nr": "11",
+          "black_nr": "5",
+          "white_rating": "2017",
+          "black_rating": "2223",
+          "result": " 0-1 "
+        },
+        {
+          "board": "6",
+          "white": "Dreelinck, Jacob",
+          "black": "Lot, Diederik",
+          "white_nr": "2",
+          "black_nr": "15",
+          "white_rating": "2334",
+          "black_rating": "1949",
+          "result": " 1-0 "
+        },
+        {
+          "board": "7",
+          "white": "Dreelinck, Adriaan",
+          "black": "Tanishq Gupta",
+          "white_nr": "6",
+          "black_nr": "25",
+          "white_rating": "2159",
+          "black_rating": "1813",
+          "result": " 0-1 "
+        },
+        {
+          "board": "8",
+          "white": "Londers, Tuur",
+          "black": "Ramacker, Quinten",
+          "white_nr": "36",
+          "black_nr": "9",
+          "white_rating": "1620",
+          "black_rating": "2082",
+          "result": " 0-1 "
+        },
+        {
+          "board": "9",
+          "white": "Zouaghi, Amir",
+          "black": "Heymans, Berwout",
+          "white_nr": "10",
+          "black_nr": "19",
+          "white_rating": "2075",
+          "black_rating": "1889",
+          "result": " 1-0 "
+        },
+        {
+          "board": "10",
+          "white": "Roelandt, Andreas",
+          "black": "Clabost, Sam",
+          "white_nr": "14",
+          "black_nr": "22",
+          "white_rating": "1961",
+          "black_rating": "1823",
+          "result": " 1-0 "
+        },
+        {
+          "board": "11",
+          "white": "De Geest, Hannes",
+          "black": "Koops, Niels",
+          "white_nr": "12",
+          "black_nr": "30",
+          "white_rating": "1992",
+          "black_rating": "1734",
+          "result": " 1-0 "
+        },
+        {
+          "board": "12",
+          "white": "Veldeman, Sieben",
+          "black": "Debunne, Lasse",
+          "white_nr": "20",
+          "black_nr": "21",
+          "white_rating": "1848",
+          "black_rating": "1840",
+          "result": " 1-0 "
+        },
+        {
+          "board": "13",
+          "white": "Ganguly, Aayush",
+          "black": "Esmer, Kemal Eymen",
+          "white_nr": "26",
+          "black_nr": "27",
+          "white_rating": "1768",
+          "black_rating": "1746",
+          "result": " 0-1 "
+        },
+        {
+          "board": "14",
+          "white": "Esmer, Hamza",
+          "black": "Van Roy, Arno",
+          "white_nr": "35",
+          "black_nr": "33",
+          "white_rating": "1623",
+          "black_rating": "1686",
+          "result": " 1-0 "
+        },
+        {
+          "board": "15",
+          "white": "De Meyere, Dirk",
+          "black": "Colin, Peter",
+          "white_nr": "37",
+          "black_nr": "17",
+          "white_rating": "1619",
+          "black_rating": "1921",
+          "result": " 1-0 "
+        },
+        {
+          "board": "16",
+          "white": "Decaestecker, Maarten",
+          "black": "Van De Putte, Ben",
+          "white_nr": "31",
+          "black_nr": "24",
+          "white_rating": "1734",
+          "black_rating": "1816",
+          "result": " 0-1 "
+        },
+        {
+          "board": "17",
+          "white": "De Meyer, Nicolas",
+          "black": "Londers, Jan",
+          "white_nr": "28",
+          "black_nr": "23",
+          "white_rating": "1739",
+          "black_rating": "1818",
+          "result": " 1-0 "
+        },
+        {
+          "board": "18",
+          "white": "De Lombaerde, Yves",
+          "black": "Degraeve, Ruben",
+          "white_nr": "32",
+          "black_nr": "29",
+          "white_rating": "1694",
+          "black_rating": "1735",
+          "result": " 0-1 "
+        },
+        {
+          "board": "19",
+          "white": "Evens, Joris",
+          "black": "Gill, Matthew",
+          "white_nr": "38",
+          "black_nr": "34",
+          "white_rating": "1616",
+          "black_rating": "1654",
+          "result": " 0-1 "
+        },
+        {
+          "board": "20",
+          "white": "Blykers, Jan",
+          "black": "Francois, Emile",
+          "white_nr": "40",
+          "black_nr": "44",
+          "white_rating": "1584",
+          "black_rating": "1525",
+          "result": " 1-0 "
+        },
+        {
+          "board": "21",
+          "white": "Moallem, Ali",
+          "black": "Trizulla, Tristen",
+          "white_nr": "47",
+          "black_nr": "42",
+          "white_rating": "0",
+          "black_rating": "1557",
+          "result": " 1-0 "
+        },
+        {
+          "board": "22",
+          "white": "Ruysseveldt, Sam",
+          "black": "Verbeke, Tom",
+          "white_nr": "43",
+          "black_nr": "46",
+          "white_rating": "1531",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "23",
+          "white": "Van Der Eecken, Wout",
+          "black": "Youtsaluk, Daryna",
+          "white_nr": "49",
+          "black_nr": "48",
+          "white_rating": "0",
+          "black_rating": "0",
+          "result": " 1-0 "
+        },
+        {
+          "board": "24",
+          "white": "Iachim, Sergiu",
+          "black": "Baetens, Christophe",
+          "white_nr": "45",
+          "black_nr": "41",
+          "white_rating": "1490",
+          "black_rating": "1567",
+          "result": " 1-0 "
+        },
+        {
+          "board": "25",
+          "white": "Verbeke, Basiel",
+          "black": "(bye)",
+          "white_nr": "39",
+          "black_nr": "0",
+          "white_rating": "1600",
+          "black_rating": "0",
+          "result": " 1-0 "
+        }
+      ]
+    }
+  ]
+}
