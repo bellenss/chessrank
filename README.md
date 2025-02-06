@@ -16,9 +16,9 @@ This project aims at creating a common chess results interface for use with vari
   DB_HOST=db
   DB_PORT=5432
   ```
-- build stylesheet & javascript files
+- download packages, build stylesheet & javascript files
 
-  `yarn build && yarn build:css`
+  `yarn install && yarn build && yarn build:css`
 - build the docker container
 
   `yarn docker:build`
