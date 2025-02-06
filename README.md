@@ -8,16 +8,19 @@ This project aims at creating a common chess results interface for use with vari
 - clone this github repository
 - make sure you have [Yarn](https://classic.yarnpkg.com/en/) and [Docker](https://www.docker.com/) installed
 - in the repository folder, create a file '.env' with default postgresql credentials:
-  DB_NAME=postgres
+  `DB_NAME=postgres
   DB_USER=postgres
   DB_PASSWORD=postgres
   DB_HOST=db
-  DB_PORT=5432
+  DB_PORT=5432`
 - build stylesheet & javascript files
+
   `yarn build && yarn build:css`
 - build the docker container
+
   `yarn docker:build`
 - start the application
+
   `yarn docker:start`
 - open up a shell in the chessrank container and apply database migrations
   `python manage.py migrate`
