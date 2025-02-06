@@ -20,5 +20,6 @@ from django.http import HttpResponse
 
 
 urlpatterns = [
+  path("", include("chess_tournaments.urls")),
   path('admin/', admin.site.urls),
 ]

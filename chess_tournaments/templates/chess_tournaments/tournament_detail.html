@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>{{ tournament.name }}</h2>
+<ul class="list-group mb-4">
+  <li class="list-group-item"><strong>Location:</strong> {{ tournament.location }}</li>
+  <li class="list-group-item"><strong>Organiser:</strong> {{ tournament.organiser }}</li>
+  <li class="list-group-item"><strong>Rounds:</strong> {{ tournament.rounds }}</li>
+  <li class="list-group-item"><strong>Time Control:</strong> {{ tournament.time_control }}</li>
+</ul>
+
+
+<h3>Final Ranking</h3>
+<table class="table table-sm table-striped table-hover table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>#</th>
+            <th>Name</th>
+            <th>Title</th>
+            <th>ELO</th>
+            <th>Performance</th>
+            <th>Federation</th>
+            <th>Club</th>
+            <th>Birth Year</th>
+            <th>Gender</th>
+            <th>Points</th>
+            <th>Tiebreak 1</th>
+            <th>Tiebreak 2</th>
+            <th>Tiebreak 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for player in players %}
+        <tr>
+            <td>{{ forloop.counter }}</td>
+            <td>{{ player.name }}</td>
+            <td>{{ player.title|default:"-" }}</td>
+            <td>{{ player.fide_rating|default_if_none:"-" }}</td>
+            <td>{{ player.performance|default_if_none:"-" }}</td>
+            <td>{{ player.federation|default:"-" }}</td>
+            <td>{{ player.club|default:"-" }}</td>
+            <td>{{ player.birth_year|default:"-" }}</td>
+            <td>{{ player.gender|default:"-" }}</td>
+            <td>{{ player.points|default:"0" }}</td>
+            <td>{{ player.tie_breaks.Schd1|default:"-" }}</td>
+            <td>{{ player.tie_breaks.Schd2|default:"-" }}</td>
+            <td>{{ player.tie_breaks.SB|default:"-" }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+
+<h3>Game Rounds</h3>
+<div class="container mt-4">
+  <div class="row">
+    {% for round in rounds %}
+    <div class="col-12 col-lg-6 mb-4">
+        <h4>Round {{ round.round_number }} ({{ round.date }})</h4>
+        <table class="table table-sm table-hover table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th class="text-center">Board</th>
+                    <th class="text-end">White</th>
+                    <th class="text-center">Result</th>
+                    <th>Black</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for game in round.games_sorted %}
+                <tr>
+                    <td class="text-center">{{ game.board }}</td>
+                    <td class="text-end">{{ game.white.name|default:"BYE" }}</td>
+                    <td class="text-center">{{ game.result }}</td>
+                    <td>{{ game.black.name|default:"BYE" }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+      </div>
+    {% endfor %}
+    </div>
+</div>
+{% endblock %}
