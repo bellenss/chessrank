@@ -9,10 +9,10 @@ This project aims at creating a common chess results interface for use with vari
 - make sure you have [Yarn](https://classic.yarnpkg.com/en/) and [Docker](https://www.docker.com/) installed
 - in the repository folder, create a file '.env' with default postgresql credentials:
   
-  `DB_NAME=postgres
-  DB_USER=postgres
-  DB_PASSWORD=postgres
-  DB_HOST=db
+  `DB_NAME=postgres \
+  DB_USER=postgres \
+  DB_PASSWORD=postgres \
+  DB_HOST=db \
   DB_PORT=5432`
 - build stylesheet & javascript files
 
