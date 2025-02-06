@@ -1,0 +1,4 @@
+services:
+  web:
+    volumes:
+      - .:/app  # Mount local files for live updates

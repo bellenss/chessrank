@@ -11,6 +11,9 @@
   },
   "scripts": {
     "build": "esbuild javascripts/application.js --bundle --minify --analyze --sourcemap --outdir=static/builds",
-    "build:css": "sass stylesheets/style.scss static/builds/style.css"
+    "build:css": "sass stylesheets/style.scss static/builds/style.css",
+    "docker:start": "docker-compose up",
+    "docker:build": "docker-compose build",
+    "docker:push": "docker push bellenss/chessrank:latest"
   }
 }
