@@ -20,6 +20,5 @@ from django.http import HttpResponse
 
 
 urlpatterns = [
-  path("polls/", include("polls.urls")),
   path('admin/', admin.site.urls),
 ]
