@@ -16,19 +16,16 @@ This project aims at creating a common chess results interface for use with vari
   DB_HOST=db
   DB_PORT=5432
   ```
-- download packages, build stylesheet & javascript files
+- download packages, build stylesheet, javascript & docker image
 
-  `yarn install && yarn build && yarn build:css`
-- build the docker container
+  `yarn install && yarn build && yarn build:css && yarn docker:build`
 
-  `yarn docker:build`
 - start the application
 
   `yarn docker:start`
 - open up a shell in the chessrank container and apply database migrations
 
   `python manage.py migrate`
-- visit your application at [localhost:8000](http://localhost:8000)
 - test with a tournament upload file
 
   ```
