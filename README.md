@@ -34,10 +34,17 @@ This project aims at creating a common chess results interface for use with vari
   ```
   curl -X POST http://127.0.0.1:8000/api/tournament/create/ -H "Content-Type: application/json" --data "@UtopiaBlitz_report.json"
   ```
-- view the resulta at [localhost:8000/tournaments](http://localhost:8000/tournaments)
+- view the results at [localhost:8000/tournaments](http://localhost:8000/tournaments)
 
 ## Contributors wanted
 You are encouraged to inspect, modify the code and create pull requests
+
+## Next steps
+- fix the JSON import format
+  - determine all needed fields & types
+- make the database fields accordingly, including sensible defaults for optional fields
+- make the import routine handle all possible errors gracefully
+- improve the layout with links to e.g. player profile
 
 ## Contact
 First contact point for questions is Steven Bellens (steven.bellens@frbe-kbsb-ksb.be)
