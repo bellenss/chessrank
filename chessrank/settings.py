@@ -139,10 +139,10 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 LOGGING = {
     "version": 1,  # the dictConfig format version
     "disable_existing_loggers": False,  # retain the default loggers
-    "loggers": {
-        "": {
-            "level": "DEBUG",
-            "handlers": ["file"],
+    "formatters": {
+        "timestamped": {  # New formatter with timestamps
+            "format": "[%(asctime)s] %(levelname)s %(name)s: %(message)s",
+            "datefmt": "%Y-%m-%d %H:%M:%S",
         },
     },
     "handlers": {
@@ -150,6 +150,13 @@ LOGGING = {
             "class": "logging.FileHandler",
             "filename": "general.log",
             "level": "DEBUG",
+            "formatter": "timestamped",  # Apply timestamped format
+        },
+    },
+    "loggers": {
+        "": {
+            "level": "DEBUG",
+            "handlers": ["file"],
         },
     },
 }
