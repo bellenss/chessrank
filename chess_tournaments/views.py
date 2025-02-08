@@ -1,14 +1,25 @@
 import json
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import render, redirect, get_object_or_404
 from chess_tournaments.models import Tournament, Player, Round, Game
 from dateutil import parser
 import logging
 logger = logging.getLogger(__name__)
+from .forms import TournamentForm
+
+def create_tournament(request):
+    if request.method == "POST":
+        form = TournamentForm(request.POST)
+        if form.is_valid():
+            form.save()
+            return redirect('tournament_list')  # Redirect after successful submission
+    else:
+        form = TournamentForm()
+    return render(request, 'chess_tournaments/tournament_form.html', {'form': form})
 
 @csrf_exempt
-def create_tournament(request):
+def process_tournament_report(request):
     logger.debug("Attempting to connect to API")
     if request.method != "POST":
         return JsonResponse({"error": "Only POST requests are allowed"}, status=405)
