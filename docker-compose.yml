@@ -11,8 +11,17 @@ services:
     depends_on:
       db:
         condition: service_healthy
+      selenium:
+        condition: service_started
     environment:
       - DEBUG=1
+
+  selenium:
+    image: selenium/standalone-chrome
+    container_name: selenium
+    shm_size: 2g  # Prevents crashes in Chrome
+    ports:
+      - "4444:4444"  # Selenium WebDriver port
 
   db:
     image: postgres:15

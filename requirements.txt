@@ -1,5 +1,10 @@
 Django>=4.2
-psycopg2-binary>=2.9.3
+psycopg2-binary>=2.9.3 # postgresql database connector
 libsass
 django-compressor
-python-dateutil
+python-dateutil # for working with dates
+requests # for webpage interaction
+selenium
+webdriver-manager
+django-crispy-forms
+crispy-bootstrap5
